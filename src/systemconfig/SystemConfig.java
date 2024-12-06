@@ -1,5 +1,9 @@
 package systemconfig;
 
+import com.google.gson.Gson;
+import com.google.gson.JsonSyntaxException;
+import java.io.*;
+
 import java.util.Scanner;
 
 public class SystemConfig {
@@ -7,6 +11,8 @@ public class SystemConfig {
     private int ticketReleaseRate;
     private int customerRetrievalRate;
     private int maxTicketCapacity;
+
+    private static final String CONFIG_FILE = "config.json";
 
     public void configureSystem(){
         Scanner scanner = new Scanner(System.in);
@@ -64,7 +70,38 @@ public class SystemConfig {
                 "Maximum Ticket Capacity: " + maxTicketCapacity);
     }
 
-    //Getters
+    //method to save the configuration as a json file
+    public void saveConfiguration() {
+        try (Writer writer = new FileWriter(CONFIG_FILE)) {
+            Gson gson = new Gson();
+            gson.toJson(this, writer);
+            System.out.println("Configuration saved to " + CONFIG_FILE);
+        } catch (IOException e) {
+            System.err.println("Error saving configuration: " + e.getMessage());
+        }
+    }
+
+    public void loadConfiguration() {
+        try (Reader reader = new FileReader(CONFIG_FILE)) {
+            Gson gson = new Gson();
+            SystemConfig loadedConfig = gson.fromJson(reader, SystemConfig.class);
+
+            // Copy values into the current object
+            this.totalTickets = loadedConfig.totalTickets;
+            this.ticketReleaseRate = loadedConfig.ticketReleaseRate;
+            this.customerRetrievalRate = loadedConfig.customerRetrievalRate;
+            this.maxTicketCapacity = loadedConfig.maxTicketCapacity;
+
+            System.out.println("Configuration loaded from " + CONFIG_FILE);
+            displaySystemConfig();
+        } catch (FileNotFoundException e) {
+            System.err.println("No saved configuration found. Please configure the system manually.");
+        } catch (JsonSyntaxException | IOException e) {
+            System.err.println("Error loading configuration: " + e.getMessage());
+        }
+    }
+
+
 
     // Getters
     public int getTotalTickets() {
