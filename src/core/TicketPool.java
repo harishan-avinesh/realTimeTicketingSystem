@@ -39,9 +39,13 @@ public class TicketPool {
 
     // Synchronized method to remove tickets by consumers
     public synchronized String removeTicket() throws InterruptedException {
-        // Wait if the pool is empty
+        // Checks if the ticket pool is empty
         while (tickets.isEmpty()) {
-            wait(); // Customer waits if the pool is empty
+            // Check if total ticket limit is reached
+            if (totalTicketsAdded >= totalTickets) {
+                return null; // Signal that no tickets are left and no more will be added
+            }
+            wait(); // Customer waits if the pool is empty and total ticket limit not reached yet
         }
 
         String ticket = tickets.remove(0); // Removes from the front (FIFO)
