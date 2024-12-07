@@ -1,6 +1,7 @@
 package cli;
 
 import systemconfig.SystemConfig;
+import core.TicketPool;
 
 import java.util.Scanner;
 
@@ -15,15 +16,19 @@ public class CLI {
         String choice = scanner.nextLine().trim().toLowerCase();
 
         if (choice.equals("yes")) {
-            config.loadConfiguration();
+            config.loadConfiguration(); //implementing the method to load existing configuration
         } else {
-            config.configureSystem();
+            config.configureSystem(); // Starting the configuration process
             System.out.println("Do you want to save this configuration for future use? (yes/no)");
             choice = scanner.nextLine().trim().toLowerCase();
             if (choice.equals("yes")) {
                 config.saveConfiguration();
             }
         }
+
+        // Initialize the TicketPool with values from the configuration
+        TicketPool ticketPool = new TicketPool(config);
+
 
     }
 }
