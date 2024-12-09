@@ -12,6 +12,44 @@ public class Vendor implements Runnable {
         this.releaseInterval = releaseInterval;
         this.ticketPool = ticketPool;
     }
+
+    @Override
+    public void run() {
+        int ticketCount = 1; // Tracks tickets released by this vendor
+
+        while (true) {
+            try {
+                // Synchronize the whole batch release process to ensure only one vendor works at a time
+                synchronized (ticketPool) {
+                    // Attempt to release all tickets in the batch
+                    boolean success = true;
+                    for (int i = 0; i < ticketsPerRelease; i++) {
+                        String ticket = "Ticket-" + vendorId + "-" + ticketCount++;
+                        // If adding a single ticket fails, stop releasing the batch
+                        if (!ticketPool.addTicket(ticket)) {
+                            success = false;
+                            break; // If pool is full or the ticket limit is reached, stop
+                        }
+                    }
+
+                    // If the batch release was unsuccessful, handle the failure
+                    if (!success) {
+                        System.out.println("Vendor " + vendorId + " cannot release the full batch of tickets. Pool is full or ticket limit reached.");
+                        return; // Stop releasing tickets if not all could be added
+                    }
+                }
+
+                // Simulate time between releases (only if the full batch was successfully added)
+                Thread.sleep(releaseInterval);
+
+            } catch (InterruptedException e) {
+                System.out.println("Vendor " + vendorId + " interrupted.");
+                return; // Exit gracefully if the thread is interrupted
+            }
+        }
+    }
+}
+    /*
     @Override
     public void run() {
         try {
@@ -37,3 +75,4 @@ public class Vendor implements Runnable {
         }
     }
 }
+*/

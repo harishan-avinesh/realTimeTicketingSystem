@@ -4,12 +4,16 @@ import systemconfig.SystemConfig;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class TicketPool {
     private final List<String> tickets = Collections.synchronizedList(new LinkedList<>());
     private final int maxCapacity;
     private int totalTicketsAdded = 0; // Track the number of tickets added to the pool
     private final int totalTickets;
+
+
 
     // Constructor to initialize TicketPool with values from SystemConfig
     public TicketPool(SystemConfig config) {
