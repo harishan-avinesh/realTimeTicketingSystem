@@ -1,5 +1,7 @@
 package core;
 import systemconfig.SystemConfig;
+
+import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.locks.Condition;
@@ -8,20 +10,36 @@ import java.util.concurrent.locks.ReentrantLock;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.logging.ConsoleHandler;
 
 public class TicketPool {
     private final List<String> tickets = new LinkedList<>();
     private final int maxCapacity;
     private int totalTicketsAdded = 0;
     private final int totalTickets;
+    private static final Logger logger = Logger.getLogger(TicketPool.class.getName());
 
     private final Lock lock = new ReentrantLock(); // Lock for controlling access
     private final Condition notFull = lock.newCondition(); // Condition for vendors
     private final Condition notEmpty = lock.newCondition(); // Condition for customers
 
+
     public TicketPool(SystemConfig config) {
         this.maxCapacity = config.getMaxTicketCapacity();
         this.totalTickets = config.getTotalTickets();
+        try {
+            FileHandler fileHandler = new FileHandler("ticket_pool.log", true);
+            fileHandler.setLevel(Level.ALL);
+            logger.addHandler(fileHandler);
+
+            ConsoleHandler consoleHandler = new ConsoleHandler();
+            consoleHandler.setLevel(Level.ALL);
+            logger.addHandler(consoleHandler);
+
+            logger.setLevel(Level.ALL);
+        } catch (IOException e) {
+            logger.log(Level.SEVERE, "Failed to initialize logger for TicketPool", e);
+        }
     }
 
     // Method for vendors to add tickets in a batch
@@ -40,7 +58,10 @@ public class TicketPool {
                 }
                 tickets.add(ticket); // Add ticket to the pool
                 totalTicketsAdded++;
-                System.out.println("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " )");
+
+                logger.log(Level.INFO, "Ticket added: {0} (Pool size: {1})", new Object[]{ticket, tickets.size()});
+
+                //System.out.println("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " )");
             }
 
             notEmpty.signalAll(); // Notify customers that tickets are available
@@ -61,7 +82,9 @@ public class TicketPool {
             }
 
             String ticket = tickets.remove(0); // Remove ticket from the pool
-            System.out.println("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " )");
+
+            logger.log(Level.INFO, "Ticket purchased: {0} (Pool size: {1})", new Object[]{ticket, tickets.size()});
+            //System.out.println("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " )");
 
             notFull.signalAll(); // Notify vendors that space is available
             return ticket;
@@ -74,6 +97,8 @@ public class TicketPool {
     public int getCurrentSize() {
         return tickets.size();
     }
+
+
 }
 
 /*

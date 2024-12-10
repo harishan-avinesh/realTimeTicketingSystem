@@ -1,18 +1,39 @@
 package core;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import java.util.logging.ConsoleHandler;
 
 public class Vendor implements Runnable {
     private final String vendorId;
     private final int ticketsPerRelease; // Number of tickets to release in one batch
     private final int releaseInterval; // Time interval between releases (ms)
     private final TicketPool ticketPool;
+    private static final Logger logger = Logger.getLogger(Vendor.class.getName());
+
 
     public Vendor(String vendorId, int ticketsPerRelease, int releaseInterval, TicketPool ticketPool) {
         this.vendorId = vendorId;
         this.ticketsPerRelease = ticketsPerRelease;
         this.releaseInterval = releaseInterval;
         this.ticketPool = ticketPool;
+
+        try {
+            FileHandler fileHandler = new FileHandler("vendor.log", true);
+            fileHandler.setLevel(Level.ALL);
+            logger.addHandler(fileHandler);
+
+            ConsoleHandler consoleHandler = new ConsoleHandler();
+            consoleHandler.setLevel(Level.ALL);
+            logger.addHandler(consoleHandler);
+
+            logger.setLevel(Level.ALL);
+        } catch (IOException e) {
+            logger.log(Level.SEVERE, "Failed to initialize logger for Vendor: " + vendorId, e);
+        }
     }
 
     @Override
@@ -29,14 +50,18 @@ public class Vendor implements Runnable {
 
                 // Attempt to release the entire batch
                 if (!ticketPool.addTickets(batchTickets)) {
-                    System.out.println("Vendor " + vendorId + " cannot release more tickets. Limit reached.");
+                    logger.log(Level.WARNING, "Vendor {0} cannot release more tickets. Limit reached.", vendorId);
+
+                    //System.out.println("Vendor " + vendorId + " cannot release more tickets. Limit reached.");
                     return; // Stop releasing tickets if the limit is reached
                 }
 
                 Thread.sleep(releaseInterval); // Simulate delay between releases
 
             } catch (InterruptedException e) {
-                System.out.println("Vendor " + vendorId + " interrupted.");
+                logger.log(Level.SEVERE, "Vendor {0} interrupted.", vendorId);
+
+                //System.out.println("Vendor " + vendorId + " interrupted.");
                 return; // Exit gracefully if the thread is interrupted
             }
         }

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>61</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Vendor Vendor2 cannot release more tickets. Limit reached.</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>62</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Vendor Vendor5 cannot release more tickets. Limit reached.</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>63</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Vendor Vendor1 cannot release more tickets. Limit reached.</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>64</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Vendor Vendor3 cannot release more tickets. Limit reached.</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:20.634019Z</date>
+  <millis>1733800160634</millis>
+  <nanos>19000</nanos>
+  <sequence>65</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Vendor Vendor4 cannot release more tickets. Limit reached.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-12-10T04:47:05.353106400Z</date>
+  <millis>1733806025353</millis>
+  <nanos>106400</nanos>
+  <sequence>59</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Vendor Vendor1 cannot release more tickets. Limit reached.</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:05.353106400Z</date>
+  <millis>1733806025353</millis>
+  <nanos>106400</nanos>
+  <sequence>60</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Vendor Vendor4 cannot release more tickets. Limit reached.</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:05.353106400Z</date>
+  <millis>1733806025353</millis>
+  <nanos>106400</nanos>
+  <sequence>61</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Vendor Vendor5 cannot release more tickets. Limit reached.</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:05.353106400Z</date>
+  <millis>1733806025353</millis>
+  <nanos>106400</nanos>
+  <sequence>62</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Vendor Vendor3 cannot release more tickets. Limit reached.</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:05.366590Z</date>
+  <millis>1733806025366</millis>
+  <nanos>590000</nanos>
+  <sequence>65</sequence>
+  <logger>core.Vendor</logger>
+  <level>WARNING</level>
+  <class>core.Vendor</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Vendor Vendor2 cannot release more tickets. Limit reached.</message>
+</record>
+</log>

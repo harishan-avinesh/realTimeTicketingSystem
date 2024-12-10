@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-12-10T03:09:16.103218100Z</date>
+  <millis>1733800156103</millis>
+  <nanos>218100</nanos>
+  <sequence>1</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>23</thread>
+  <message>Ticket added: Ticket-Vendor1-1 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.103218100Z</date>
+  <millis>1733800156103</millis>
+  <nanos>218100</nanos>
+  <sequence>2</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>23</thread>
+  <message>Ticket added: Ticket-Vendor1-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.103218100Z</date>
+  <millis>1733800156103</millis>
+  <nanos>218100</nanos>
+  <sequence>3</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>23</thread>
+  <message>Ticket added: Ticket-Vendor1-3 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.103218100Z</date>
+  <millis>1733800156103</millis>
+  <nanos>218100</nanos>
+  <sequence>4</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>23</thread>
+  <message>Ticket added: Ticket-Vendor1-4 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.103218100Z</date>
+  <millis>1733800156103</millis>
+  <nanos>218100</nanos>
+  <sequence>5</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>23</thread>
+  <message>Ticket added: Ticket-Vendor1-5 (Pool size: 5)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>6</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>28</thread>
+  <message>Ticket purchased: Ticket-Vendor1-1 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>8</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>29</thread>
+  <message>Ticket purchased: Ticket-Vendor1-2 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>10</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>30</thread>
+  <message>Ticket purchased: Ticket-Vendor1-3 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>12</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>31</thread>
+  <message>Ticket purchased: Ticket-Vendor1-4 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>14</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>32</thread>
+  <message>Ticket purchased: Ticket-Vendor1-5 (Pool size: 0)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>16</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>24</thread>
+  <message>Ticket added: Ticket-Vendor2-1 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>17</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>24</thread>
+  <message>Ticket added: Ticket-Vendor2-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>18</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>24</thread>
+  <message>Ticket added: Ticket-Vendor2-3 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>19</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>24</thread>
+  <message>Ticket added: Ticket-Vendor2-4 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>20</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>24</thread>
+  <message>Ticket added: Ticket-Vendor2-5 (Pool size: 5)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>21</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>33</thread>
+  <message>Ticket purchased: Ticket-Vendor2-1 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>23</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>34</thread>
+  <message>Ticket purchased: Ticket-Vendor2-2 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>25</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>35</thread>
+  <message>Ticket purchased: Ticket-Vendor2-3 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.118840400Z</date>
+  <millis>1733800156118</millis>
+  <nanos>840400</nanos>
+  <sequence>27</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>36</thread>
+  <message>Ticket purchased: Ticket-Vendor2-4 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.134459400Z</date>
+  <millis>1733800156134</millis>
+  <nanos>459400</nanos>
+  <sequence>29</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>37</thread>
+  <message>Ticket purchased: Ticket-Vendor2-5 (Pool size: 0)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.134459400Z</date>
+  <millis>1733800156134</millis>
+  <nanos>459400</nanos>
+  <sequence>31</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>25</thread>
+  <message>Ticket added: Ticket-Vendor3-1 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.134459400Z</date>
+  <millis>1733800156134</millis>
+  <nanos>459400</nanos>
+  <sequence>32</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>25</thread>
+  <message>Ticket added: Ticket-Vendor3-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.134459400Z</date>
+  <millis>1733800156134</millis>
+  <nanos>459400</nanos>
+  <sequence>33</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>25</thread>
+  <message>Ticket added: Ticket-Vendor3-3 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.134459400Z</date>
+  <millis>1733800156134</millis>
+  <nanos>459400</nanos>
+  <sequence>34</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>25</thread>
+  <message>Ticket added: Ticket-Vendor3-4 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:16.134459400Z</date>
+  <millis>1733800156134</millis>
+  <nanos>459400</nanos>
+  <sequence>35</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>25</thread>
+  <message>Ticket added: Ticket-Vendor3-5 (Pool size: 5)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.623187100Z</date>
+  <millis>1733800158623</millis>
+  <nanos>187100</nanos>
+  <sequence>36</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>28</thread>
+  <message>Ticket purchased: Ticket-Vendor3-1 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.625928400Z</date>
+  <millis>1733800158625</millis>
+  <nanos>928400</nanos>
+  <sequence>38</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>29</thread>
+  <message>Ticket purchased: Ticket-Vendor3-2 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.626924500Z</date>
+  <millis>1733800158626</millis>
+  <nanos>924500</nanos>
+  <sequence>40</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>30</thread>
+  <message>Ticket purchased: Ticket-Vendor3-3 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.627921500Z</date>
+  <millis>1733800158627</millis>
+  <nanos>921500</nanos>
+  <sequence>42</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>31</thread>
+  <message>Ticket purchased: Ticket-Vendor3-4 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.628918600Z</date>
+  <millis>1733800158628</millis>
+  <nanos>918600</nanos>
+  <sequence>44</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>32</thread>
+  <message>Ticket purchased: Ticket-Vendor3-5 (Pool size: 0)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.628918600Z</date>
+  <millis>1733800158628</millis>
+  <nanos>918600</nanos>
+  <sequence>46</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>26</thread>
+  <message>Ticket added: Ticket-Vendor4-1 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.628918600Z</date>
+  <millis>1733800158628</millis>
+  <nanos>918600</nanos>
+  <sequence>47</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>26</thread>
+  <message>Ticket added: Ticket-Vendor4-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.628918600Z</date>
+  <millis>1733800158628</millis>
+  <nanos>918600</nanos>
+  <sequence>48</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>26</thread>
+  <message>Ticket added: Ticket-Vendor4-3 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.628918600Z</date>
+  <millis>1733800158628</millis>
+  <nanos>918600</nanos>
+  <sequence>49</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>26</thread>
+  <message>Ticket added: Ticket-Vendor4-4 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.628918600Z</date>
+  <millis>1733800158628</millis>
+  <nanos>918600</nanos>
+  <sequence>50</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>26</thread>
+  <message>Ticket added: Ticket-Vendor4-5 (Pool size: 5)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>51</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>36</thread>
+  <message>Ticket purchased: Ticket-Vendor4-1 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>53</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>35</thread>
+  <message>Ticket purchased: Ticket-Vendor4-2 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>55</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>34</thread>
+  <message>Ticket purchased: Ticket-Vendor4-3 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>57</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>37</thread>
+  <message>Ticket purchased: Ticket-Vendor4-4 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T03:09:18.644566300Z</date>
+  <millis>1733800158644</millis>
+  <nanos>566300</nanos>
+  <sequence>59</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>33</thread>
+  <message>Ticket purchased: Ticket-Vendor4-5 (Pool size: 0)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-12-10T04:47:03.314862900Z</date>
+  <millis>1733806023314</millis>
+  <nanos>862900</nanos>
+  <sequence>1</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>27</thread>
+  <message>Ticket added: Ticket-Vendor1-1 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.315847300Z</date>
+  <millis>1733806023315</millis>
+  <nanos>847300</nanos>
+  <sequence>2</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>27</thread>
+  <message>Ticket added: Ticket-Vendor1-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.316844200Z</date>
+  <millis>1733806023316</millis>
+  <nanos>844200</nanos>
+  <sequence>3</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>27</thread>
+  <message>Ticket added: Ticket-Vendor1-3 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.317842400Z</date>
+  <millis>1733806023317</millis>
+  <nanos>842400</nanos>
+  <sequence>4</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>27</thread>
+  <message>Ticket added: Ticket-Vendor1-4 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.323832600Z</date>
+  <millis>1733806023323</millis>
+  <nanos>832600</nanos>
+  <sequence>5</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>32</thread>
+  <message>Ticket purchased: Ticket-Vendor1-1 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.324823100Z</date>
+  <millis>1733806023324</millis>
+  <nanos>823100</nanos>
+  <sequence>7</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>33</thread>
+  <message>Ticket purchased: Ticket-Vendor1-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.325820Z</date>
+  <millis>1733806023325</millis>
+  <nanos>820000</nanos>
+  <sequence>9</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>34</thread>
+  <message>Ticket purchased: Ticket-Vendor1-3 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.328813200Z</date>
+  <millis>1733806023328</millis>
+  <nanos>813200</nanos>
+  <sequence>11</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>28</thread>
+  <message>Ticket added: Ticket-Vendor2-1 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.329810500Z</date>
+  <millis>1733806023329</millis>
+  <nanos>810500</nanos>
+  <sequence>12</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>28</thread>
+  <message>Ticket added: Ticket-Vendor2-2 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.330806600Z</date>
+  <millis>1733806023330</millis>
+  <nanos>806600</nanos>
+  <sequence>13</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>28</thread>
+  <message>Ticket added: Ticket-Vendor2-3 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.331809300Z</date>
+  <millis>1733806023331</millis>
+  <nanos>809300</nanos>
+  <sequence>14</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>28</thread>
+  <message>Ticket added: Ticket-Vendor2-4 (Pool size: 5)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.332802200Z</date>
+  <millis>1733806023332</millis>
+  <nanos>802200</nanos>
+  <sequence>15</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>37</thread>
+  <message>Ticket purchased: Ticket-Vendor1-4 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.333799300Z</date>
+  <millis>1733806023333</millis>
+  <nanos>799300</nanos>
+  <sequence>17</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>35</thread>
+  <message>Ticket purchased: Ticket-Vendor2-1 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.334803300Z</date>
+  <millis>1733806023334</millis>
+  <nanos>803300</nanos>
+  <sequence>19</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>36</thread>
+  <message>Ticket purchased: Ticket-Vendor2-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.335797800Z</date>
+  <millis>1733806023335</millis>
+  <nanos>797800</nanos>
+  <sequence>21</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>38</thread>
+  <message>Ticket purchased: Ticket-Vendor2-3 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.336794500Z</date>
+  <millis>1733806023336</millis>
+  <nanos>794500</nanos>
+  <sequence>23</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>30</thread>
+  <message>Ticket added: Ticket-Vendor4-1 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.337792100Z</date>
+  <millis>1733806023337</millis>
+  <nanos>792100</nanos>
+  <sequence>24</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>30</thread>
+  <message>Ticket added: Ticket-Vendor4-2 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.337792100Z</date>
+  <millis>1733806023337</millis>
+  <nanos>792100</nanos>
+  <sequence>25</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>30</thread>
+  <message>Ticket added: Ticket-Vendor4-3 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.338789Z</date>
+  <millis>1733806023338</millis>
+  <nanos>789000</nanos>
+  <sequence>26</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>30</thread>
+  <message>Ticket added: Ticket-Vendor4-4 (Pool size: 5)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:03.338789Z</date>
+  <millis>1733806023338</millis>
+  <nanos>789000</nanos>
+  <sequence>27</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>39</thread>
+  <message>Ticket purchased: Ticket-Vendor2-4 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.332652900Z</date>
+  <millis>1733806024332</millis>
+  <nanos>652900</nanos>
+  <sequence>29</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>33</thread>
+  <message>Ticket purchased: Ticket-Vendor4-1 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.335680700Z</date>
+  <millis>1733806024335</millis>
+  <nanos>680700</nanos>
+  <sequence>31</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>34</thread>
+  <message>Ticket purchased: Ticket-Vendor4-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.336667200Z</date>
+  <millis>1733806024336</millis>
+  <nanos>667200</nanos>
+  <sequence>33</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>32</thread>
+  <message>Ticket purchased: Ticket-Vendor4-3 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.337669700Z</date>
+  <millis>1733806024337</millis>
+  <nanos>669700</nanos>
+  <sequence>35</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>29</thread>
+  <message>Ticket added: Ticket-Vendor3-1 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.338667100Z</date>
+  <millis>1733806024338</millis>
+  <nanos>667100</nanos>
+  <sequence>36</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>29</thread>
+  <message>Ticket added: Ticket-Vendor3-2 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.339663800Z</date>
+  <millis>1733806024339</millis>
+  <nanos>663800</nanos>
+  <sequence>37</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>29</thread>
+  <message>Ticket added: Ticket-Vendor3-3 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.340660900Z</date>
+  <millis>1733806024340</millis>
+  <nanos>660900</nanos>
+  <sequence>38</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>29</thread>
+  <message>Ticket added: Ticket-Vendor3-4 (Pool size: 5)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.347890200Z</date>
+  <millis>1733806024347</millis>
+  <nanos>890200</nanos>
+  <sequence>39</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>39</thread>
+  <message>Ticket purchased: Ticket-Vendor4-4 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.348905700Z</date>
+  <millis>1733806024348</millis>
+  <nanos>905700</nanos>
+  <sequence>41</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>38</thread>
+  <message>Ticket purchased: Ticket-Vendor3-1 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.348905700Z</date>
+  <millis>1733806024348</millis>
+  <nanos>905700</nanos>
+  <sequence>43</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>36</thread>
+  <message>Ticket purchased: Ticket-Vendor3-2 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.355993500Z</date>
+  <millis>1733806024355</millis>
+  <nanos>993500</nanos>
+  <sequence>45</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>37</thread>
+  <message>Ticket purchased: Ticket-Vendor3-3 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.355993500Z</date>
+  <millis>1733806024355</millis>
+  <nanos>993500</nanos>
+  <sequence>47</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>35</thread>
+  <message>Ticket purchased: Ticket-Vendor3-4 (Pool size: 0)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.356990500Z</date>
+  <millis>1733806024356</millis>
+  <nanos>990500</nanos>
+  <sequence>49</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>28</thread>
+  <message>Ticket added: Ticket-Vendor2-5 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.356990500Z</date>
+  <millis>1733806024356</millis>
+  <nanos>990500</nanos>
+  <sequence>50</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>28</thread>
+  <message>Ticket added: Ticket-Vendor2-6 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.357987600Z</date>
+  <millis>1733806024357</millis>
+  <nanos>987600</nanos>
+  <sequence>51</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>28</thread>
+  <message>Ticket added: Ticket-Vendor2-7 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:04.357987600Z</date>
+  <millis>1733806024357</millis>
+  <nanos>987600</nanos>
+  <sequence>52</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>addTickets</method>
+  <thread>28</thread>
+  <message>Ticket added: Ticket-Vendor2-8 (Pool size: 4)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:05.350111200Z</date>
+  <millis>1733806025350</millis>
+  <nanos>111200</nanos>
+  <sequence>53</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>32</thread>
+  <message>Ticket purchased: Ticket-Vendor2-5 (Pool size: 3)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:05.351109Z</date>
+  <millis>1733806025351</millis>
+  <nanos>109000</nanos>
+  <sequence>55</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>33</thread>
+  <message>Ticket purchased: Ticket-Vendor2-6 (Pool size: 2)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:05.352105500Z</date>
+  <millis>1733806025352</millis>
+  <nanos>105500</nanos>
+  <sequence>57</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>34</thread>
+  <message>Ticket purchased: Ticket-Vendor2-7 (Pool size: 1)</message>
+</record>
+<record>
+  <date>2024-12-10T04:47:05.365582600Z</date>
+  <millis>1733806025365</millis>
+  <nanos>582600</nanos>
+  <sequence>63</sequence>
+  <logger>core.TicketPool</logger>
+  <level>INFO</level>
+  <class>core.TicketPool</class>
+  <method>removeTicket</method>
+  <thread>37</thread>
+  <message>Ticket purchased: Ticket-Vendor2-8 (Pool size: 0)</message>
+</record>
+</log>

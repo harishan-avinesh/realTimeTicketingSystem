@@ -5,6 +5,10 @@ import com.google.gson.JsonSyntaxException;
 import java.io.*;
 
 import java.util.Scanner;
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import java.util.logging.ConsoleHandler;
 
 public class SystemConfig {
     private int totalTickets;
@@ -12,10 +16,26 @@ public class SystemConfig {
     private int customerRetrievalRate;
     private int maxTicketCapacity;
 
+    private static final Logger logger = Logger.getLogger(SystemConfig.class.getName());
     private static final String CONFIG_FILE = "config.json";
 
     public void configureSystem(){
         Scanner scanner = new Scanner(System.in);
+        try {
+            // Configure FileHandler for file logging
+            FileHandler fileHandler = new FileHandler("system_config.log", true);
+            fileHandler.setLevel(Level.ALL);
+            logger.addHandler(fileHandler);
+
+            // Configure ConsoleHandler for console logging
+            ConsoleHandler consoleHandler = new ConsoleHandler();
+            consoleHandler.setLevel(Level.ALL);
+            logger.addHandler(consoleHandler);
+
+            logger.setLevel(Level.ALL);
+        } catch (IOException e) {
+            logger.log(Level.SEVERE, "Failed to initialize logger for SystemConfig", e);
+        }
 
         //A method to validate inputs is called to get positive integers for the four configuration variables.
         totalTickets = promptValidInput(scanner , "\nEnter Total number of tickets: ");
@@ -75,8 +95,12 @@ public class SystemConfig {
         try (Writer writer = new FileWriter(CONFIG_FILE)) {
             Gson gson = new Gson();
             gson.toJson(this, writer);
+
+            logger.log(Level.INFO, "Configuration saved: Total Tickets: {0}, Max Capacity: {1}, Ticket Release Rate: {2}, Customer Retrieval Rate: {3}",
+                    new Object[]{totalTickets, maxTicketCapacity, ticketReleaseRate, customerRetrievalRate});
             System.out.println("Configuration saved to " + CONFIG_FILE);
         } catch (IOException e) {
+            logger.log(Level.SEVERE, "Error saving configuration", e);
             System.err.println("Error saving configuration: " + e.getMessage());
         }
     }
@@ -92,12 +116,16 @@ public class SystemConfig {
             this.customerRetrievalRate = loadedConfig.customerRetrievalRate;
             this.maxTicketCapacity = loadedConfig.maxTicketCapacity;
 
-            System.out.println("Configuration loaded from " + CONFIG_FILE);
+            logger.log(Level.INFO, "Configuration loaded from file: {0}", CONFIG_FILE);
+
+            //System.out.println("Configuration loaded from " + CONFIG_FILE);
             displaySystemConfig();
             return true;
         } catch (FileNotFoundException e) {
             System.err.println("No saved configuration found. Please configure the system manually.\n");
         } catch (JsonSyntaxException | IOException e) {
+            logger.log(Level.SEVERE, "Error loading configuration", e);
+
             System.err.println("Error loading configuration: " + e.getMessage());
         }
         return false;
