@@ -82,6 +82,27 @@ public class CLI {
             customerThread.start();
         }
 
+        // Monitor the ticket pool for reaching the limit
+        while (true) {
+            try {
+                if (ticketPool.isTicketLimitReached()) {
+                    System.out.println("\nTotal ticket limit reached. Stopping simulation...");
+                    stopAllThreads(vendorThreads, customerThreads);
+                    break;
+                }
+
+                System.in.read(); // Wait for the user to press Enter to stop manually
+                System.out.println("\nStopping simulation manually...");
+                stopAllThreads(vendorThreads, customerThreads);
+                break;
+
+            } catch (Exception e) {
+                System.out.println("Error while waiting for user input.");
+            }
+        }
+
+        System.out.println("Simulation stopped. Exiting program...");
+/*
         // Stop Simulation
         try {
             System.in.read(); // Wait for the user to press Enter
@@ -99,7 +120,7 @@ public class CLI {
 
         vendorThreads.clear();
         customerThreads.clear();
-        System.out.println("Simulation stopped. Exiting program...");
+        System.out.println("Simulation stopped. Exiting program..."); */
     }
 
     // Helper method to validate and prompt for integer input
@@ -118,6 +139,18 @@ public class CLI {
                 scanner.nextLine(); // Consume invalid input
             }
         }
+    }
+    private static void stopAllThreads(List<Thread> vendorThreads, List<Thread> customerThreads) {
+        for (Thread thread : vendorThreads) {
+            thread.interrupt();
+        }
+        for (Thread thread : customerThreads) {
+            thread.interrupt();
+        }
+
+        vendorThreads.clear();
+        customerThreads.clear();
+        System.out.println("All threads have been stopped.");
     }
 }
 

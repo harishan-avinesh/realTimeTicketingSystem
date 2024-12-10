@@ -98,6 +98,9 @@ public class TicketPool {
         return tickets.size();
     }
 
+    public boolean isTicketLimitReached() {
+        return totalTicketsAdded >= totalTickets;
+    }
 
 }
 
