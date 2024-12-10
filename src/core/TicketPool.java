@@ -1,13 +1,12 @@
 package core;
 import systemconfig.SystemConfig;
+import utility.LoggerConfig;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
-import java.util.logging.FileHandler;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import java.util.logging.*;
 
 public class TicketPool {
     private final List<String> tickets = new LinkedList<>();
@@ -18,6 +17,8 @@ public class TicketPool {
     private final Lock lock = new ReentrantLock(); // Lock for controlling access
     private final Condition notFull = lock.newCondition(); // Condition for vendors
     private final Condition notEmpty = lock.newCondition(); // Condition for customers
+
+    private static final Logger logger = LoggerConfig.getLogger(TicketPool.class); // Using LoggerConfig to initialize logger
 
     public TicketPool(SystemConfig config) {
         this.maxCapacity = config.getMaxTicketCapacity();
@@ -40,7 +41,8 @@ public class TicketPool {
                 }
                 tickets.add(ticket); // Add ticket to the pool
                 totalTicketsAdded++;
-                System.out.println("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " )");
+                logger.info("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " ) Ticket No. " + totalTicketsAdded);
+                //System.out.println("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " )" + "Ticket No. " + totalTicketsAdded);
             }
 
             notEmpty.signalAll(); // Notify customers that tickets are available
@@ -61,7 +63,10 @@ public class TicketPool {
             }
 
             String ticket = tickets.remove(0); // Remove ticket from the pool
-            System.out.println("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " )");
+
+            logger.info("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " ) Ticket No. " + (totalTicketsAdded - tickets.size()));
+
+            //System.out.println("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " )" + "Ticket No. " + (totalTicketsAdded - tickets.size())) ;
 
             notFull.signalAll(); // Notify vendors that space is available
             return ticket;
@@ -75,73 +80,3 @@ public class TicketPool {
         return tickets.size();
     }
 }
-
-/*
-import systemconfig.SystemConfig;
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-
-public class TicketPool {
-    private final List<String> tickets = Collections.synchronizedList(new LinkedList<>());
-    private final int maxCapacity;
-    private int totalTicketsAdded = 0; // Track the number of tickets added to the pool
-    private final int totalTickets;
-
-
-
-    // Constructor to initialize TicketPool with values from SystemConfig
-    public TicketPool(SystemConfig config) {
-        this.maxCapacity = config.getMaxTicketCapacity();
-        this.totalTickets = config.getTotalTickets();
-    }
-
-    // Synchronized method to add tickets by the vendors
-    public synchronized boolean addTicket(String ticket) throws InterruptedException {
-        // Wait if the pool is full
-        while (tickets.size() >= maxCapacity) {
-            wait(); // Vendor waits if the pool is full
-        }
-
-        if (totalTicketsAdded >= totalTickets) {
-            return false; // Stop adding tickets if the limit is reached
-        }
-
-        tickets.add(ticket); // Adds to the end of the list (First in First out method)
-        totalTicketsAdded++;
-        System.out.println("Ticket added: " + ticket + " | Pool size: " + tickets.size());
-
-        // Notify customers that a ticket has been added
-        notifyAll();
-        return true;
-    }
-
-    // Synchronized method to remove tickets by consumers
-    public synchronized String removeTicket() throws InterruptedException {
-        // Checks if the ticket pool is empty
-        while (tickets.isEmpty()) {
-            // Check if total ticket limit is reached
-            if (totalTicketsAdded >= totalTickets) {
-                return null; // Signal that no tickets are left and no more will be added
-            }
-            wait(); // Customer waits if the pool is empty and total ticket limit not reached yet
-        }
-
-        String ticket = tickets.remove(0); // Removes from the front (FIFO)
-        System.out.println("Ticket purchased: " + ticket + " | Pool size: " + tickets.size());
-
-        // Notify vendors that there is space in the pool for more tickets
-        notifyAll();
-        return ticket;
-    }
-
-    // Getter for current pool size
-    public synchronized int getCurrentSize() {
-        return tickets.size();
-    }
-}
-*/
-
-

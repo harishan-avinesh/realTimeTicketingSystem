@@ -1,0 +1,16 @@
+Dec 10, 2024 10:35:09 PM core.Vendor run
+INFO: Vendor Vendor2 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 10:35:09 PM core.Vendor run
+INFO: Vendor Vendor1 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 10:35:09 PM core.Vendor run
+INFO: Vendor Vendor4 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 10:35:09 PM core.Vendor run
+INFO: Vendor Vendor3 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 10:38:09 PM core.Vendor run
+INFO: Vendor Vendor3 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 10:38:09 PM core.Vendor run
+INFO: Vendor Vendor4 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 10:38:09 PM core.Vendor run
+INFO: Vendor Vendor1 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 10:38:09 PM core.Vendor run
+INFO: Vendor Vendor2 cannot release more tickets. Ticket limit reached.
