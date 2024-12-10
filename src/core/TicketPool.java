@@ -41,7 +41,7 @@ public class TicketPool {
                 }
                 tickets.add(ticket); // Add ticket to the pool
                 totalTicketsAdded++;
-                logger.info("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " ) Ticket No. " + totalTicketsAdded);
+                logger.info("\nTicket added: " + ticket + " ( Pool size: " + tickets.size() + " ) Ticket No. " + totalTicketsAdded);
                 //System.out.println("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " )" + "Ticket No. " + totalTicketsAdded);
             }
 
@@ -64,7 +64,7 @@ public class TicketPool {
 
             String ticket = tickets.remove(0); // Remove ticket from the pool
 
-            logger.info("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " ) Ticket No. " + (totalTicketsAdded - tickets.size()));
+            logger.info("\nTicket purchased: " + ticket + " ( Pool size: " + tickets.size() + " ) Ticket No. " + (totalTicketsAdded - tickets.size()));
 
             //System.out.println("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " )" + "Ticket No. " + (totalTicketsAdded - tickets.size())) ;
 
@@ -79,4 +79,9 @@ public class TicketPool {
     public int getCurrentSize() {
         return tickets.size();
     }
+
+    public int getTotalTickets() {
+        return totalTickets;
+    }
+
 }

@@ -14,3 +14,83 @@ Dec 10, 2024 10:38:09 PM core.Vendor run
 INFO: Vendor Vendor1 cannot release more tickets. Ticket limit reached.
 Dec 10, 2024 10:38:09 PM core.Vendor run
 INFO: Vendor Vendor2 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:14:28 PM core.Vendor run
+INFO: Vendor Vendor3 has finished releasing tickets.
+Dec 10, 2024 11:14:28 PM core.Vendor run
+INFO: Vendor Vendor4 has finished releasing tickets.
+Dec 10, 2024 11:14:28 PM core.Vendor run
+INFO: Vendor Vendor1 has finished releasing tickets.
+Dec 10, 2024 11:14:28 PM core.Vendor run
+INFO: Vendor Vendor2 has finished releasing tickets.
+Dec 10, 2024 11:14:28 PM core.Vendor run
+INFO: Vendor Vendor5 has finished releasing tickets.
+Dec 10, 2024 11:14:59 PM core.Vendor run
+INFO: Vendor Vendor2 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:14:59 PM core.Vendor run
+INFO: Vendor Vendor4 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:14:59 PM core.Vendor run
+INFO: Vendor Vendor5 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:14:59 PM core.Vendor run
+INFO: Vendor Vendor3 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:14:59 PM core.Vendor run
+INFO: Vendor Vendor1 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor10 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor8 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor2 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor7 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor4 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor3 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor6 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor5 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor1 interrupted.
+Dec 10, 2024 11:21:44 PM core.Vendor run
+WARNING: Vendor Vendor9 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor1 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor2 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor3 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor4 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor9 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor10 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor5 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor6 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor7 interrupted.
+Dec 10, 2024 11:22:54 PM core.Vendor run
+WARNING: Vendor Vendor8 interrupted.
+Dec 10, 2024 11:24:00 PM core.Vendor run
+INFO: Vendor Vendor2 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:00 PM core.Vendor run
+INFO: Vendor Vendor4 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:00 PM core.Vendor run
+INFO: Vendor Vendor6 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:00 PM core.Vendor run
+INFO: Vendor Vendor1 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:00 PM core.Vendor run
+INFO: Vendor Vendor3 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:00 PM core.Vendor run
+INFO: Vendor Vendor7 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:00 PM core.Vendor run
+INFO: Vendor Vendor8 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:00 PM core.Vendor run
+INFO: Vendor Vendor10 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:01 PM core.Vendor run
+INFO: Vendor Vendor9 cannot release more tickets. Ticket limit reached.
+Dec 10, 2024 11:24:01 PM core.Vendor run
+INFO: Vendor Vendor5 cannot release more tickets. Ticket limit reached.

@@ -158,3 +158,683 @@ Dec 10, 2024 10:38:10 PM core.TicketPool removeTicket
 INFO: Ticket purchased: Ticket-Vendor2-7 ( Pool size: 1 ) Ticket No. 19
 Dec 10, 2024 10:38:10 PM core.TicketPool removeTicket
 INFO: Ticket purchased: Ticket-Vendor2-8 ( Pool size: 0 ) Ticket No. 20
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-1 ( Pool size: 1 ) Ticket No. 1
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-2 ( Pool size: 2 ) Ticket No. 2
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-3 ( Pool size: 3 ) Ticket No. 3
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-4 ( Pool size: 4 ) Ticket No. 4
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-5 ( Pool size: 5 ) Ticket No. 5
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-1 ( Pool size: 6 ) Ticket No. 6
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-2 ( Pool size: 7 ) Ticket No. 7
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-3 ( Pool size: 8 ) Ticket No. 8
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-4 ( Pool size: 9 ) Ticket No. 9
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-5 ( Pool size: 10 ) Ticket No. 10
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-1 ( Pool size: 9 ) Ticket No. 1
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-2 ( Pool size: 8 ) Ticket No. 2
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-3 ( Pool size: 7 ) Ticket No. 3
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-4 ( Pool size: 6 ) Ticket No. 4
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-5 ( Pool size: 5 ) Ticket No. 5
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-1 ( Pool size: 6 ) Ticket No. 11
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-2 ( Pool size: 7 ) Ticket No. 12
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-3 ( Pool size: 8 ) Ticket No. 13
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-4 ( Pool size: 9 ) Ticket No. 14
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-5 ( Pool size: 10 ) Ticket No. 15
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-1 ( Pool size: 9 ) Ticket No. 6
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-2 ( Pool size: 8 ) Ticket No. 7
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-3 ( Pool size: 7 ) Ticket No. 8
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-4 ( Pool size: 6 ) Ticket No. 9
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-5 ( Pool size: 5 ) Ticket No. 10
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-6 ( Pool size: 6 ) Ticket No. 16
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-7 ( Pool size: 7 ) Ticket No. 17
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-8 ( Pool size: 8 ) Ticket No. 18
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-9 ( Pool size: 9 ) Ticket No. 19
+Dec 10, 2024 11:14:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-10 ( Pool size: 10 ) Ticket No. 20
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-1 ( Pool size: 9 ) Ticket No. 11
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-2 ( Pool size: 8 ) Ticket No. 12
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-3 ( Pool size: 7 ) Ticket No. 13
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-4 ( Pool size: 6 ) Ticket No. 14
+Dec 10, 2024 11:14:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-5 ( Pool size: 5 ) Ticket No. 15
+Dec 10, 2024 11:15:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-6 ( Pool size: 4 ) Ticket No. 16
+Dec 10, 2024 11:15:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-7 ( Pool size: 3 ) Ticket No. 17
+Dec 10, 2024 11:15:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-8 ( Pool size: 2 ) Ticket No. 18
+Dec 10, 2024 11:15:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-9 ( Pool size: 1 ) Ticket No. 19
+Dec 10, 2024 11:15:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-10 ( Pool size: 0 ) Ticket No. 20
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-1 ( Pool size: 1 ) Ticket No. 1
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-2 ( Pool size: 2 ) Ticket No. 2
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-3 ( Pool size: 3 ) Ticket No. 3
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-4 ( Pool size: 4 ) Ticket No. 4
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-5 ( Pool size: 5 ) Ticket No. 5
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-1 ( Pool size: 6 ) Ticket No. 6
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-2 ( Pool size: 7 ) Ticket No. 7
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-3 ( Pool size: 8 ) Ticket No. 8
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-4 ( Pool size: 9 ) Ticket No. 9
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-5 ( Pool size: 10 ) Ticket No. 10
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-1 ( Pool size: 11 ) Ticket No. 11
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-2 ( Pool size: 12 ) Ticket No. 12
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-3 ( Pool size: 13 ) Ticket No. 13
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-4 ( Pool size: 14 ) Ticket No. 14
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-5 ( Pool size: 15 ) Ticket No. 15
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-1 ( Pool size: 16 ) Ticket No. 16
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-2 ( Pool size: 17 ) Ticket No. 17
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-3 ( Pool size: 18 ) Ticket No. 18
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-4 ( Pool size: 19 ) Ticket No. 19
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-5 ( Pool size: 20 ) Ticket No. 20
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-1 ( Pool size: 19 ) Ticket No. 1
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-2 ( Pool size: 18 ) Ticket No. 2
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-3 ( Pool size: 17 ) Ticket No. 3
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-4 ( Pool size: 16 ) Ticket No. 4
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-5 ( Pool size: 15 ) Ticket No. 5
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-1 ( Pool size: 14 ) Ticket No. 6
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-2 ( Pool size: 13 ) Ticket No. 7
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-3 ( Pool size: 12 ) Ticket No. 8
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-4 ( Pool size: 11 ) Ticket No. 9
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-5 ( Pool size: 10 ) Ticket No. 10
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-1 ( Pool size: 9 ) Ticket No. 11
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-2 ( Pool size: 8 ) Ticket No. 12
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-3 ( Pool size: 7 ) Ticket No. 13
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-4 ( Pool size: 6 ) Ticket No. 14
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-5 ( Pool size: 5 ) Ticket No. 15
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-1 ( Pool size: 4 ) Ticket No. 16
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-2 ( Pool size: 3 ) Ticket No. 17
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-3 ( Pool size: 2 ) Ticket No. 18
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-4 ( Pool size: 1 ) Ticket No. 19
+Dec 10, 2024 11:22:52 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-5 ( Pool size: 0 ) Ticket No. 20
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-1 ( Pool size: 1 ) Ticket No. 21
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-2 ( Pool size: 2 ) Ticket No. 22
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-3 ( Pool size: 3 ) Ticket No. 23
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-4 ( Pool size: 4 ) Ticket No. 24
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-5 ( Pool size: 5 ) Ticket No. 25
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-1 ( Pool size: 6 ) Ticket No. 26
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-2 ( Pool size: 7 ) Ticket No. 27
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-3 ( Pool size: 8 ) Ticket No. 28
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-4 ( Pool size: 9 ) Ticket No. 29
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-5 ( Pool size: 10 ) Ticket No. 30
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-1 ( Pool size: 11 ) Ticket No. 31
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-2 ( Pool size: 12 ) Ticket No. 32
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-3 ( Pool size: 13 ) Ticket No. 33
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-4 ( Pool size: 14 ) Ticket No. 34
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-5 ( Pool size: 15 ) Ticket No. 35
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-1 ( Pool size: 16 ) Ticket No. 36
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-2 ( Pool size: 17 ) Ticket No. 37
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-3 ( Pool size: 18 ) Ticket No. 38
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-4 ( Pool size: 19 ) Ticket No. 39
+Dec 10, 2024 11:22:52 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-5 ( Pool size: 20 ) Ticket No. 40
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-1 ( Pool size: 19 ) Ticket No. 21
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-2 ( Pool size: 18 ) Ticket No. 22
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-3 ( Pool size: 17 ) Ticket No. 23
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-4 ( Pool size: 16 ) Ticket No. 24
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-5 ( Pool size: 15 ) Ticket No. 25
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-1 ( Pool size: 14 ) Ticket No. 26
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-2 ( Pool size: 13 ) Ticket No. 27
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-3 ( Pool size: 12 ) Ticket No. 28
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-4 ( Pool size: 11 ) Ticket No. 29
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-5 ( Pool size: 10 ) Ticket No. 30
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-1 ( Pool size: 9 ) Ticket No. 31
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-2 ( Pool size: 8 ) Ticket No. 32
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-3 ( Pool size: 7 ) Ticket No. 33
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-4 ( Pool size: 6 ) Ticket No. 34
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-5 ( Pool size: 5 ) Ticket No. 35
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-1 ( Pool size: 4 ) Ticket No. 36
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-2 ( Pool size: 3 ) Ticket No. 37
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-3 ( Pool size: 2 ) Ticket No. 38
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-4 ( Pool size: 1 ) Ticket No. 39
+Dec 10, 2024 11:22:53 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-5 ( Pool size: 0 ) Ticket No. 40
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-1 ( Pool size: 1 ) Ticket No. 41
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-2 ( Pool size: 2 ) Ticket No. 42
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-3 ( Pool size: 3 ) Ticket No. 43
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-4 ( Pool size: 4 ) Ticket No. 44
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-5 ( Pool size: 5 ) Ticket No. 45
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-1 ( Pool size: 6 ) Ticket No. 46
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-2 ( Pool size: 7 ) Ticket No. 47
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-3 ( Pool size: 8 ) Ticket No. 48
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-4 ( Pool size: 9 ) Ticket No. 49
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-5 ( Pool size: 10 ) Ticket No. 50
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-6 ( Pool size: 11 ) Ticket No. 51
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-7 ( Pool size: 12 ) Ticket No. 52
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-8 ( Pool size: 13 ) Ticket No. 53
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-9 ( Pool size: 14 ) Ticket No. 54
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-10 ( Pool size: 15 ) Ticket No. 55
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-6 ( Pool size: 16 ) Ticket No. 56
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-7 ( Pool size: 17 ) Ticket No. 57
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-8 ( Pool size: 18 ) Ticket No. 58
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-9 ( Pool size: 19 ) Ticket No. 59
+Dec 10, 2024 11:22:53 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-10 ( Pool size: 20 ) Ticket No. 60
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-1 ( Pool size: 1 ) Ticket No. 1
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-2 ( Pool size: 2 ) Ticket No. 2
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-3 ( Pool size: 3 ) Ticket No. 3
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-4 ( Pool size: 4 ) Ticket No. 4
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-5 ( Pool size: 5 ) Ticket No. 5
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-1 ( Pool size: 6 ) Ticket No. 6
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-2 ( Pool size: 7 ) Ticket No. 7
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-3 ( Pool size: 8 ) Ticket No. 8
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-4 ( Pool size: 9 ) Ticket No. 9
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-5 ( Pool size: 10 ) Ticket No. 10
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-1 ( Pool size: 9 ) Ticket No. 1
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-2 ( Pool size: 8 ) Ticket No. 2
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-3 ( Pool size: 7 ) Ticket No. 3
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-4 ( Pool size: 6 ) Ticket No. 4
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-5 ( Pool size: 5 ) Ticket No. 5
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-1 ( Pool size: 4 ) Ticket No. 6
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-2 ( Pool size: 3 ) Ticket No. 7
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-3 ( Pool size: 2 ) Ticket No. 8
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-4 ( Pool size: 1 ) Ticket No. 9
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-5 ( Pool size: 0 ) Ticket No. 10
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-1 ( Pool size: 1 ) Ticket No. 11
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-2 ( Pool size: 2 ) Ticket No. 12
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-3 ( Pool size: 3 ) Ticket No. 13
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-4 ( Pool size: 4 ) Ticket No. 14
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-5 ( Pool size: 5 ) Ticket No. 15
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-1 ( Pool size: 6 ) Ticket No. 16
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-2 ( Pool size: 7 ) Ticket No. 17
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-3 ( Pool size: 8 ) Ticket No. 18
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-4 ( Pool size: 9 ) Ticket No. 19
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-5 ( Pool size: 10 ) Ticket No. 20
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-1 ( Pool size: 9 ) Ticket No. 11
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-2 ( Pool size: 8 ) Ticket No. 12
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-3 ( Pool size: 7 ) Ticket No. 13
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-4 ( Pool size: 6 ) Ticket No. 14
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-5 ( Pool size: 5 ) Ticket No. 15
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-1 ( Pool size: 4 ) Ticket No. 16
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-2 ( Pool size: 3 ) Ticket No. 17
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-3 ( Pool size: 2 ) Ticket No. 18
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-4 ( Pool size: 1 ) Ticket No. 19
+Dec 10, 2024 11:23:56 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-5 ( Pool size: 0 ) Ticket No. 20
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-1 ( Pool size: 1 ) Ticket No. 21
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-2 ( Pool size: 2 ) Ticket No. 22
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-3 ( Pool size: 3 ) Ticket No. 23
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-4 ( Pool size: 4 ) Ticket No. 24
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-5 ( Pool size: 5 ) Ticket No. 25
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-1 ( Pool size: 6 ) Ticket No. 26
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-2 ( Pool size: 7 ) Ticket No. 27
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-3 ( Pool size: 8 ) Ticket No. 28
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-4 ( Pool size: 9 ) Ticket No. 29
+Dec 10, 2024 11:23:56 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-5 ( Pool size: 10 ) Ticket No. 30
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-1 ( Pool size: 9 ) Ticket No. 21
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-2 ( Pool size: 8 ) Ticket No. 22
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-3 ( Pool size: 7 ) Ticket No. 23
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-4 ( Pool size: 6 ) Ticket No. 24
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-5 ( Pool size: 5 ) Ticket No. 25
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-1 ( Pool size: 4 ) Ticket No. 26
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-2 ( Pool size: 3 ) Ticket No. 27
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-6 ( Pool size: 4 ) Ticket No. 31
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-7 ( Pool size: 5 ) Ticket No. 32
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-8 ( Pool size: 6 ) Ticket No. 33
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-9 ( Pool size: 7 ) Ticket No. 34
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-10 ( Pool size: 8 ) Ticket No. 35
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-3 ( Pool size: 7 ) Ticket No. 28
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-4 ( Pool size: 6 ) Ticket No. 29
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-5 ( Pool size: 5 ) Ticket No. 30
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-6 ( Pool size: 6 ) Ticket No. 36
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-7 ( Pool size: 7 ) Ticket No. 37
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-8 ( Pool size: 8 ) Ticket No. 38
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-9 ( Pool size: 9 ) Ticket No. 39
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-10 ( Pool size: 10 ) Ticket No. 40
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-6 ( Pool size: 9 ) Ticket No. 31
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-7 ( Pool size: 8 ) Ticket No. 32
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-8 ( Pool size: 7 ) Ticket No. 33
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-9 ( Pool size: 6 ) Ticket No. 34
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-10 ( Pool size: 5 ) Ticket No. 35
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-6 ( Pool size: 4 ) Ticket No. 36
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-6 ( Pool size: 5 ) Ticket No. 41
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-7 ( Pool size: 6 ) Ticket No. 42
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-8 ( Pool size: 7 ) Ticket No. 43
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-9 ( Pool size: 8 ) Ticket No. 44
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor4-10 ( Pool size: 9 ) Ticket No. 45
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-7 ( Pool size: 8 ) Ticket No. 37
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-8 ( Pool size: 7 ) Ticket No. 38
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-9 ( Pool size: 6 ) Ticket No. 39
+Dec 10, 2024 11:23:57 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-10 ( Pool size: 5 ) Ticket No. 40
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-6 ( Pool size: 6 ) Ticket No. 46
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-7 ( Pool size: 7 ) Ticket No. 47
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-8 ( Pool size: 8 ) Ticket No. 48
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-9 ( Pool size: 9 ) Ticket No. 49
+Dec 10, 2024 11:23:57 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor1-10 ( Pool size: 10 ) Ticket No. 50
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-6 ( Pool size: 9 ) Ticket No. 41
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-7 ( Pool size: 8 ) Ticket No. 42
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-8 ( Pool size: 7 ) Ticket No. 43
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-9 ( Pool size: 6 ) Ticket No. 44
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor4-10 ( Pool size: 5 ) Ticket No. 45
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-6 ( Pool size: 4 ) Ticket No. 46
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-7 ( Pool size: 3 ) Ticket No. 47
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-8 ( Pool size: 2 ) Ticket No. 48
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-11 ( Pool size: 3 ) Ticket No. 51
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-12 ( Pool size: 4 ) Ticket No. 52
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-13 ( Pool size: 5 ) Ticket No. 53
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-14 ( Pool size: 6 ) Ticket No. 54
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor3-15 ( Pool size: 7 ) Ticket No. 55
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-9 ( Pool size: 6 ) Ticket No. 49
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor1-10 ( Pool size: 5 ) Ticket No. 50
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-11 ( Pool size: 4 ) Ticket No. 51
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-12 ( Pool size: 3 ) Ticket No. 52
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-11 ( Pool size: 4 ) Ticket No. 56
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-12 ( Pool size: 5 ) Ticket No. 57
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-13 ( Pool size: 6 ) Ticket No. 58
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-14 ( Pool size: 7 ) Ticket No. 59
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-15 ( Pool size: 8 ) Ticket No. 60
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-13 ( Pool size: 7 ) Ticket No. 53
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-14 ( Pool size: 6 ) Ticket No. 54
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor3-15 ( Pool size: 5 ) Ticket No. 55
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-11 ( Pool size: 4 ) Ticket No. 56
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-1 ( Pool size: 5 ) Ticket No. 61
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-2 ( Pool size: 6 ) Ticket No. 62
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-3 ( Pool size: 7 ) Ticket No. 63
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-4 ( Pool size: 8 ) Ticket No. 64
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor7-5 ( Pool size: 9 ) Ticket No. 65
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-12 ( Pool size: 8 ) Ticket No. 57
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-13 ( Pool size: 7 ) Ticket No. 58
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-14 ( Pool size: 6 ) Ticket No. 59
+Dec 10, 2024 11:23:58 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-15 ( Pool size: 5 ) Ticket No. 60
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-1 ( Pool size: 6 ) Ticket No. 66
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-2 ( Pool size: 7 ) Ticket No. 67
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-3 ( Pool size: 8 ) Ticket No. 68
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-4 ( Pool size: 9 ) Ticket No. 69
+Dec 10, 2024 11:23:58 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor8-5 ( Pool size: 10 ) Ticket No. 70
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-1 ( Pool size: 9 ) Ticket No. 61
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-2 ( Pool size: 8 ) Ticket No. 62
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-3 ( Pool size: 7 ) Ticket No. 63
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-4 ( Pool size: 6 ) Ticket No. 64
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor7-5 ( Pool size: 5 ) Ticket No. 65
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-1 ( Pool size: 4 ) Ticket No. 66
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-2 ( Pool size: 3 ) Ticket No. 67
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-3 ( Pool size: 2 ) Ticket No. 68
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-1 ( Pool size: 3 ) Ticket No. 71
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-2 ( Pool size: 4 ) Ticket No. 72
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-3 ( Pool size: 5 ) Ticket No. 73
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-4 ( Pool size: 6 ) Ticket No. 74
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-5 ( Pool size: 7 ) Ticket No. 75
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-4 ( Pool size: 6 ) Ticket No. 69
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor8-5 ( Pool size: 5 ) Ticket No. 70
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-1 ( Pool size: 4 ) Ticket No. 71
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-2 ( Pool size: 3 ) Ticket No. 72
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-1 ( Pool size: 4 ) Ticket No. 76
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-2 ( Pool size: 5 ) Ticket No. 77
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-3 ( Pool size: 6 ) Ticket No. 78
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-4 ( Pool size: 7 ) Ticket No. 79
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor10-5 ( Pool size: 8 ) Ticket No. 80
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-3 ( Pool size: 7 ) Ticket No. 73
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-4 ( Pool size: 6 ) Ticket No. 74
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-5 ( Pool size: 5 ) Ticket No. 75
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-16 ( Pool size: 6 ) Ticket No. 81
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-17 ( Pool size: 7 ) Ticket No. 82
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-18 ( Pool size: 8 ) Ticket No. 83
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-19 ( Pool size: 9 ) Ticket No. 84
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor2-20 ( Pool size: 10 ) Ticket No. 85
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor10-1 ( Pool size: 9 ) Ticket No. 76
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor10-2 ( Pool size: 8 ) Ticket No. 77
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor10-3 ( Pool size: 7 ) Ticket No. 78
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor10-4 ( Pool size: 6 ) Ticket No. 79
+Dec 10, 2024 11:23:59 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor10-5 ( Pool size: 5 ) Ticket No. 80
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-6 ( Pool size: 6 ) Ticket No. 86
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-7 ( Pool size: 7 ) Ticket No. 87
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-8 ( Pool size: 8 ) Ticket No. 88
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-9 ( Pool size: 9 ) Ticket No. 89
+Dec 10, 2024 11:23:59 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor6-10 ( Pool size: 10 ) Ticket No. 90
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-16 ( Pool size: 9 ) Ticket No. 81
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-17 ( Pool size: 8 ) Ticket No. 82
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-18 ( Pool size: 7 ) Ticket No. 83
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-19 ( Pool size: 6 ) Ticket No. 84
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor2-20 ( Pool size: 5 ) Ticket No. 85
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-6 ( Pool size: 4 ) Ticket No. 86
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-6 ( Pool size: 5 ) Ticket No. 91
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-7 ( Pool size: 6 ) Ticket No. 92
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-8 ( Pool size: 7 ) Ticket No. 93
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-9 ( Pool size: 8 ) Ticket No. 94
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor5-10 ( Pool size: 9 ) Ticket No. 95
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-7 ( Pool size: 8 ) Ticket No. 87
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-8 ( Pool size: 7 ) Ticket No. 88
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-9 ( Pool size: 6 ) Ticket No. 89
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor6-10 ( Pool size: 5 ) Ticket No. 90
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-6 ( Pool size: 4 ) Ticket No. 91
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-7 ( Pool size: 3 ) Ticket No. 92
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-6 ( Pool size: 4 ) Ticket No. 96
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-7 ( Pool size: 5 ) Ticket No. 97
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-8 ( Pool size: 6 ) Ticket No. 98
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-9 ( Pool size: 7 ) Ticket No. 99
+Dec 10, 2024 11:24:00 PM core.TicketPool addTickets
+INFO: Ticket added: Ticket-Vendor9-10 ( Pool size: 8 ) Ticket No. 100
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-8 ( Pool size: 7 ) Ticket No. 93
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-9 ( Pool size: 6 ) Ticket No. 94
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor5-10 ( Pool size: 5 ) Ticket No. 95
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-6 ( Pool size: 4 ) Ticket No. 96
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-7 ( Pool size: 3 ) Ticket No. 97
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-8 ( Pool size: 2 ) Ticket No. 98
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-9 ( Pool size: 1 ) Ticket No. 99
+Dec 10, 2024 11:24:00 PM core.TicketPool removeTicket
+INFO: Ticket purchased: Ticket-Vendor9-10 ( Pool size: 0 ) Ticket No. 100

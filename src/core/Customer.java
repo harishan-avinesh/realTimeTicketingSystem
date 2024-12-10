@@ -26,7 +26,7 @@ public class Customer implements Runnable {
 
                 // If no tickets are left and the total limit is reached, stop the thread
                 if (ticket == null) {
-                    logger.info("Customer " + customerId + " found no tickets available. Stopping.");
+                    logger.info("\nCustomer " + customerId + " found no tickets available. Stopping.");
                     //System.out.println("Customer " + customerId + " found no tickets available. Stopping.");
                     return; // Exit the thread
                 }

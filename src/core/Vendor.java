@@ -35,7 +35,7 @@ public class Vendor implements Runnable {
                 // Attempt to release the entire batch
                 if (!ticketPool.addTickets(batchTickets)) {
 
-                    logger.info("Vendor " + vendorId + " cannot release more tickets. Ticket limit reached.");
+                    logger.info("\nVendor " + vendorId + " cannot release more tickets. Pool limit reached.");
 
                     //System.out.println("Vendor " + vendorId + " cannot release more tickets. Limit reached.");
                     return; // Stop releasing tickets if the limit is reached
@@ -44,7 +44,7 @@ public class Vendor implements Runnable {
                 Thread.sleep(releaseInterval); // Simulate delay between releases
 
             } catch (InterruptedException e) {
-                logger.warning("Vendor " + vendorId + " interrupted.");
+                logger.warning("\nVendor " + vendorId + " interrupted.");
 
                 //System.out.println("Vendor " + vendorId + " interrupted.");
                 return; // Exit gracefully if the thread is interrupted

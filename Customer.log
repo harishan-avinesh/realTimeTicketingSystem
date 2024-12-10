@@ -86,3 +86,413 @@ Dec 10, 2024 10:38:33 PM core.Customer run
 WARNING: Customer Customer1 interrupted.
 Dec 10, 2024 10:38:33 PM core.Customer run
 WARNING: Customer Customer4 interrupted.
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor1-1
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor1-2
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor1-3
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor1-4
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor1-5
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor2-1
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor2-2
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor2-3
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor2-4
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor2-5
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor3-1
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor3-2
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor3-3
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor3-4
+Dec 10, 2024 11:14:59 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor3-5
+Dec 10, 2024 11:15:00 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor1-6
+Dec 10, 2024 11:15:00 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor1-7
+Dec 10, 2024 11:15:00 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor1-8
+Dec 10, 2024 11:15:00 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor1-9
+Dec 10, 2024 11:15:00 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor1-10
+Dec 10, 2024 11:16:02 PM core.Customer run
+WARNING: Customer Customer2 interrupted.
+Dec 10, 2024 11:16:02 PM core.Customer run
+WARNING: Customer Customer1 interrupted.
+Dec 10, 2024 11:16:02 PM core.Customer run
+WARNING: Customer Customer5 interrupted.
+Dec 10, 2024 11:16:02 PM core.Customer run
+WARNING: Customer Customer4 interrupted.
+Dec 10, 2024 11:16:02 PM core.Customer run
+WARNING: Customer Customer3 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer13 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer17 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer7 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer12 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer18 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer1 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer3 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer2 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer9 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer6 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer8 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer10 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer5 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer11 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer4 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer16 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer20 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer15 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer14 interrupted.
+Dec 10, 2024 11:21:44 PM core.Customer run
+WARNING: Customer Customer19 interrupted.
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor1-1
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor1-2
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor1-3
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor1-4
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor1-5
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer6 purchased: Ticket-Vendor2-1
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer7 purchased: Ticket-Vendor2-2
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer8 purchased: Ticket-Vendor2-3
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer9 purchased: Ticket-Vendor2-4
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer10 purchased: Ticket-Vendor2-5
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer11 purchased: Ticket-Vendor3-1
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer12 purchased: Ticket-Vendor3-2
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer13 purchased: Ticket-Vendor3-3
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer14 purchased: Ticket-Vendor3-4
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer15 purchased: Ticket-Vendor3-5
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer16 purchased: Ticket-Vendor4-1
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer17 purchased: Ticket-Vendor4-2
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer18 purchased: Ticket-Vendor4-3
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer19 purchased: Ticket-Vendor4-4
+Dec 10, 2024 11:22:52 PM core.Customer run
+INFO: Customer Customer20 purchased: Ticket-Vendor4-5
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer19 purchased: Ticket-Vendor5-1
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer20 purchased: Ticket-Vendor5-2
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer17 purchased: Ticket-Vendor5-3
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer18 purchased: Ticket-Vendor5-4
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer13 purchased: Ticket-Vendor5-5
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer15 purchased: Ticket-Vendor6-1
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer16 purchased: Ticket-Vendor6-2
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer11 purchased: Ticket-Vendor6-3
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer12 purchased: Ticket-Vendor6-4
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer14 purchased: Ticket-Vendor6-5
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer8 purchased: Ticket-Vendor7-1
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer9 purchased: Ticket-Vendor7-2
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer7 purchased: Ticket-Vendor7-3
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer10 purchased: Ticket-Vendor7-4
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer6 purchased: Ticket-Vendor7-5
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor8-1
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor8-2
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor8-3
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor8-4
+Dec 10, 2024 11:22:53 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor8-5
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer1 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer2 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer5 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer9 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer6 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer10 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer13 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer3 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer14 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer17 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer18 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer4 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer7 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer8 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer11 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer15 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer12 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer16 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer19 interrupted.
+Dec 10, 2024 11:22:54 PM core.Customer run
+WARNING: Customer Customer20 interrupted.
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor1-1
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor1-2
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor1-3
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer6 purchased: Ticket-Vendor1-4
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor1-5
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor2-1
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer7 purchased: Ticket-Vendor2-2
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer8 purchased: Ticket-Vendor2-3
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer9 purchased: Ticket-Vendor2-4
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer10 purchased: Ticket-Vendor2-5
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer11 purchased: Ticket-Vendor3-1
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer12 purchased: Ticket-Vendor3-2
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer13 purchased: Ticket-Vendor3-3
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer14 purchased: Ticket-Vendor3-4
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer15 purchased: Ticket-Vendor3-5
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer16 purchased: Ticket-Vendor4-1
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer17 purchased: Ticket-Vendor4-2
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer18 purchased: Ticket-Vendor4-3
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer19 purchased: Ticket-Vendor4-4
+Dec 10, 2024 11:23:56 PM core.Customer run
+INFO: Customer Customer20 purchased: Ticket-Vendor4-5
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer8 purchased: Ticket-Vendor5-1
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer7 purchased: Ticket-Vendor5-2
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer10 purchased: Ticket-Vendor5-3
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer9 purchased: Ticket-Vendor5-4
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor5-5
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer6 purchased: Ticket-Vendor6-1
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor6-2
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor6-3
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor6-4
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor6-5
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer18 purchased: Ticket-Vendor3-6
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer17 purchased: Ticket-Vendor3-7
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer14 purchased: Ticket-Vendor3-8
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer13 purchased: Ticket-Vendor3-9
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer20 purchased: Ticket-Vendor3-10
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer19 purchased: Ticket-Vendor2-6
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer16 purchased: Ticket-Vendor2-7
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer15 purchased: Ticket-Vendor2-8
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer12 purchased: Ticket-Vendor2-9
+Dec 10, 2024 11:23:57 PM core.Customer run
+INFO: Customer Customer11 purchased: Ticket-Vendor2-10
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer17 purchased: Ticket-Vendor4-6
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer14 purchased: Ticket-Vendor4-7
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer13 purchased: Ticket-Vendor4-8
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer18 purchased: Ticket-Vendor4-9
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer20 purchased: Ticket-Vendor4-10
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor1-6
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor1-7
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor1-8
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer6 purchased: Ticket-Vendor1-9
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer9 purchased: Ticket-Vendor1-10
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer10 purchased: Ticket-Vendor3-11
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer19 purchased: Ticket-Vendor3-12
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor3-13
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor3-14
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer7 purchased: Ticket-Vendor3-15
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer8 purchased: Ticket-Vendor2-11
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer11 purchased: Ticket-Vendor2-12
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer12 purchased: Ticket-Vendor2-13
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer15 purchased: Ticket-Vendor2-14
+Dec 10, 2024 11:23:58 PM core.Customer run
+INFO: Customer Customer16 purchased: Ticket-Vendor2-15
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer14 purchased: Ticket-Vendor7-1
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer17 purchased: Ticket-Vendor7-2
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer13 purchased: Ticket-Vendor7-3
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer20 purchased: Ticket-Vendor7-4
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor7-5
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor8-1
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer18 purchased: Ticket-Vendor8-2
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor8-3
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer9 purchased: Ticket-Vendor8-4
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer6 purchased: Ticket-Vendor8-5
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer19 purchased: Ticket-Vendor9-1
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer10 purchased: Ticket-Vendor9-2
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor9-3
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer7 purchased: Ticket-Vendor9-4
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor9-5
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer12 purchased: Ticket-Vendor10-1
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer11 purchased: Ticket-Vendor10-2
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer15 purchased: Ticket-Vendor10-3
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer16 purchased: Ticket-Vendor10-4
+Dec 10, 2024 11:23:59 PM core.Customer run
+INFO: Customer Customer8 purchased: Ticket-Vendor10-5
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer20 purchased: Ticket-Vendor2-16
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer13 purchased: Ticket-Vendor2-17
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer5 purchased: Ticket-Vendor2-18
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer1 purchased: Ticket-Vendor2-19
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer2 purchased: Ticket-Vendor2-20
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer18 purchased: Ticket-Vendor6-6
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer6 purchased: Ticket-Vendor6-7
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer10 purchased: Ticket-Vendor6-8
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer9 purchased: Ticket-Vendor6-9
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer17 purchased: Ticket-Vendor6-10
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer14 purchased: Ticket-Vendor5-6
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer19 purchased: Ticket-Vendor5-7
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer8 purchased: Ticket-Vendor5-8
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer16 purchased: Ticket-Vendor5-9
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer15 purchased: Ticket-Vendor5-10
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer11 purchased: Ticket-Vendor9-6
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer12 purchased: Ticket-Vendor9-7
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer3 purchased: Ticket-Vendor9-8
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer4 purchased: Ticket-Vendor9-9
+Dec 10, 2024 11:24:00 PM core.Customer run
+INFO: Customer Customer7 purchased: Ticket-Vendor9-10
