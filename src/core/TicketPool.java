@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class TicketPool {
     private final List<String> tickets = new LinkedList<>();
@@ -37,7 +40,7 @@ public class TicketPool {
                 }
                 tickets.add(ticket); // Add ticket to the pool
                 totalTicketsAdded++;
-                System.out.println("Ticket added: " + ticket + " | Pool size: " + tickets.size());
+                System.out.println("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " )");
             }
 
             notEmpty.signalAll(); // Notify customers that tickets are available
@@ -58,7 +61,7 @@ public class TicketPool {
             }
 
             String ticket = tickets.remove(0); // Remove ticket from the pool
-            System.out.println("Ticket purchased: " + ticket + " | Pool size: " + tickets.size());
+            System.out.println("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " )");
 
             notFull.signalAll(); // Notify vendors that space is available
             return ticket;

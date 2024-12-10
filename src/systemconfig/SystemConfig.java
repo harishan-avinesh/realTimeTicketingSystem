@@ -18,7 +18,7 @@ public class SystemConfig {
         Scanner scanner = new Scanner(System.in);
 
         //A method to validate inputs is called to get positive integers for the four configuration variables.
-        totalTickets = promptValidInput(scanner , "Enter Total number of tickets: ");
+        totalTickets = promptValidInput(scanner , "\nEnter Total number of tickets: ");
 
         maxTicketCapacity = promptValidInput(scanner , "Enter Max Ticket Capacity: ");
 
@@ -81,7 +81,7 @@ public class SystemConfig {
         }
     }
 
-    public void loadConfiguration() {
+    public boolean loadConfiguration() {
         try (Reader reader = new FileReader(CONFIG_FILE)) {
             Gson gson = new Gson();
             SystemConfig loadedConfig = gson.fromJson(reader, SystemConfig.class);
@@ -94,11 +94,13 @@ public class SystemConfig {
 
             System.out.println("Configuration loaded from " + CONFIG_FILE);
             displaySystemConfig();
+            return true;
         } catch (FileNotFoundException e) {
-            System.err.println("No saved configuration found. Please configure the system manually.");
+            System.err.println("No saved configuration found. Please configure the system manually.\n");
         } catch (JsonSyntaxException | IOException e) {
             System.err.println("Error loading configuration: " + e.getMessage());
         }
+        return false;
     }
 
 
