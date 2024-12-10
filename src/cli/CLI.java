@@ -275,11 +275,16 @@ public class CLI {
                     int numVendors = scanner.nextInt();
                     System.out.print("Enter the number of customers to simulate: ");
                     int numCustomers = scanner.nextInt();
+                    System.out.println("Enter the number of tickets to release per batch by a vendor: ");
+                    int numTicketsPerBatch = scanner.nextInt();
                     scanner.nextLine(); // Consume newline
+
+                    System.out.println("Simulation started with " + numVendors + " vendors and " + numCustomers + " customers. Press Enter to stop.");
+
 
                     // Initialize threads dynamically based on user input
                     for (int i = 1; i <= numVendors; i++) {
-                        Vendor vendor = new Vendor("Vendor" + i, 5, config.getTicketReleaseRate(), ticketPool);
+                        Vendor vendor = new Vendor("Vendor" + i,numTicketsPerBatch, config.getTicketReleaseRate(), ticketPool);
                         Thread vendorThread = new Thread(vendor);
                         vendorThreads.add(vendorThread);
                         vendorThread.start();
@@ -293,7 +298,6 @@ public class CLI {
                     }
 
                     simulationRunning = true;
-                    System.out.println("Simulation started with " + numVendors + " vendors and " + numCustomers + " customers. Press Enter to stop.");
                     try {
                         System.in.read(); // Wait for the user to press Enter
                     } catch (Exception e) {
