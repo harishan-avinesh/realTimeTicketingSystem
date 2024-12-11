@@ -7,7 +7,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class SystemConfig {
-    private static int totalTickets;
+    private int totalTickets;
     private int ticketReleaseRate;
     private int customerRetrievalRate;
     private int maxTicketCapacity;
@@ -106,7 +106,7 @@ public class SystemConfig {
 
 
     // Getters
-    public static int getTotalTickets() {
+    public int getTotalTickets() {
         return totalTickets;
     }
 
