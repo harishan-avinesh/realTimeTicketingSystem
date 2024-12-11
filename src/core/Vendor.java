@@ -1,4 +1,5 @@
 package core;
+import systemconfig.SystemConfig;
 import utility.LoggerConfig;
 
 import java.util.ArrayList;
@@ -10,33 +11,38 @@ public class Vendor implements Runnable {
     private final int ticketsPerRelease; // Number of tickets to release in one batch
     private final int releaseInterval; // Time interval between releases (ms)
     private final TicketPool ticketPool;
+    private SystemConfig config;
+
 
     private static final Logger logger = LoggerConfig.getLogger(Vendor.class); // Using LoggerConfig to initialize logger
 
-    public Vendor(String vendorId, int ticketsPerRelease, int releaseInterval, TicketPool ticketPool) {
+    public Vendor(String vendorId, int ticketsPerRelease, int releaseInterval, TicketPool ticketPool, SystemConfig config  ) {
         this.vendorId = vendorId;
         this.ticketsPerRelease = ticketsPerRelease;
         this.releaseInterval = releaseInterval;
         this.ticketPool = ticketPool;
+        this.config = config;
+
     }
 
     @Override
     public void run() {
         int ticketCount = 1; // Tracks tickets released by this vendor
 
-        while (true) {
+        while (ticketPool.getTotalTicketsAdded() <= config.getTotalTickets()) {
             try {
+
                 // Create a batch of tickets
                 List<String> batchTickets = new ArrayList<>();
                 for (int i = 0; i < ticketsPerRelease; i++) {
                     batchTickets.add("Ticket-" + vendorId + "-" + ticketCount++);
                 }
 
-                // Attempt to release the entire batch
+                //Stop releasing when the limit is reached
                 if (!ticketPool.addTickets(batchTickets)) {
 
-                    logger.info("\nVendor " + vendorId + " cannot release more tickets. Pool limit reached.");
-
+                    logger.info(String.format("[Vendor: %s | Thread: %s] Ticket limit reached. Stopping.",
+                            vendorId, Thread.currentThread().getName()));
                     //System.out.println("Vendor " + vendorId + " cannot release more tickets. Limit reached.");
                     return; // Stop releasing tickets if the limit is reached
                 }

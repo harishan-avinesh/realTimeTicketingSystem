@@ -13,6 +13,7 @@ public class TicketPool {
     private final int maxCapacity;
     private int totalTicketsAdded = 0;
     private final int totalTickets;
+    private int ticketsSold = 0;
 
     private final Lock lock = new ReentrantLock(); // Lock for controlling access
     private final Condition notFull = lock.newCondition(); // Condition for vendors
@@ -41,7 +42,8 @@ public class TicketPool {
                 }
                 tickets.add(ticket); // Add ticket to the pool
                 totalTicketsAdded++;
-                logger.info("\nTicket added: " + ticket + " ( Pool size: " + tickets.size() + " ) Ticket No. " + totalTicketsAdded);
+                logger.info(String.format("Ticket Added: %s | Pool Size: %d | Total Tickets Added: %d",
+                        ticket, tickets.size(), totalTicketsAdded));
                 //System.out.println("Ticket added: " + ticket + " ( Pool size: " + tickets.size() + " )" + "Ticket No. " + totalTicketsAdded);
             }
 
@@ -63,9 +65,10 @@ public class TicketPool {
             }
 
             String ticket = tickets.remove(0); // Remove ticket from the pool
+            ticketsSold++;
 
-            logger.info("\nTicket purchased: " + ticket + " ( Pool size: " + tickets.size() + " ) Ticket No. " + (totalTicketsAdded - tickets.size()));
-
+            logger.info(String.format("Ticket Purchased: %s | Pool Size: %d | Tickets Sold: %d | Total Tickets Left: %d",
+                    ticket, tickets.size(), ticketsSold, totalTickets - ticketsSold));
             //System.out.println("Ticket purchased: " + ticket + " ( Pool size: " + tickets.size() + " )" + "Ticket No. " + (totalTicketsAdded - tickets.size())) ;
 
             notFull.signalAll(); // Notify vendors that space is available
@@ -80,8 +83,12 @@ public class TicketPool {
         return tickets.size();
     }
 
-    public int getTotalTickets() {
-        return totalTickets;
+    public int getTotalTicketsAdded() {
+        return totalTicketsAdded;
+    }
+
+    public int getTicketsSold(){
+        return ticketsSold;
     }
 
 }

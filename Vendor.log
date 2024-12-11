@@ -94,3 +94,247 @@ Dec 10, 2024 11:24:01 PM core.Vendor run
 INFO: Vendor Vendor9 cannot release more tickets. Ticket limit reached.
 Dec 10, 2024 11:24:01 PM core.Vendor run
 INFO: Vendor Vendor5 cannot release more tickets. Ticket limit reached.
+Dec 11, 2024 7:18:30 AM core.Vendor run
+INFO: 
+Vendor Vendor1 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:18:30 AM core.Vendor run
+INFO: 
+Vendor Vendor2 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:27:05 AM core.Vendor run
+INFO: 
+Vendor Vendor2 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:27:05 AM core.Vendor run
+INFO: 
+Vendor Vendor1 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:27:05 AM core.Vendor run
+INFO: 
+Vendor Vendor5 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:27:05 AM core.Vendor run
+INFO: 
+Vendor Vendor4 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:27:05 AM core.Vendor run
+INFO: 
+Vendor Vendor3 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor4 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor1 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor3 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor6 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor5 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor7 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor8 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor10 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:33 AM core.Vendor run
+INFO: 
+Vendor Vendor9 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:42:34 AM core.Vendor run
+INFO: 
+Vendor Vendor2 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 7:49:06 AM core.Vendor run
+WARNING: 
+Vendor Vendor4 interrupted.
+Dec 11, 2024 7:49:06 AM core.Vendor run
+WARNING: 
+Vendor Vendor3 interrupted.
+Dec 11, 2024 7:49:06 AM core.Vendor run
+WARNING: 
+Vendor Vendor5 interrupted.
+Dec 11, 2024 7:49:06 AM core.Vendor run
+WARNING: 
+Vendor Vendor2 interrupted.
+Dec 11, 2024 7:49:06 AM core.Vendor run
+WARNING: 
+Vendor Vendor1 interrupted.
+Dec 11, 2024 7:56:05 AM core.Vendor run
+WARNING: 
+Vendor Vendor3 interrupted.
+Dec 11, 2024 7:56:05 AM core.Vendor run
+WARNING: 
+Vendor Vendor2 interrupted.
+Dec 11, 2024 7:56:05 AM core.Vendor run
+WARNING: 
+Vendor Vendor1 interrupted.
+Dec 11, 2024 7:59:21 AM core.Vendor run
+WARNING: 
+Vendor Vendor3 interrupted.
+Dec 11, 2024 7:59:21 AM core.Vendor run
+WARNING: 
+Vendor Vendor4 interrupted.
+Dec 11, 2024 7:59:21 AM core.Vendor run
+WARNING: 
+Vendor Vendor5 interrupted.
+Dec 11, 2024 7:59:21 AM core.Vendor run
+WARNING: 
+Vendor Vendor2 interrupted.
+Dec 11, 2024 7:59:21 AM core.Vendor run
+WARNING: 
+Vendor Vendor1 interrupted.
+Dec 11, 2024 8:31:28 AM core.Vendor run
+INFO: 
+Vendor Vendor2 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 8:31:28 AM core.Vendor run
+INFO: 
+Vendor Vendor5 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 8:31:28 AM core.Vendor run
+INFO: 
+Vendor Vendor3 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 8:31:28 AM core.Vendor run
+INFO: 
+Vendor Vendor4 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 8:31:28 AM core.Vendor run
+INFO: 
+Vendor Vendor1 cannot release more tickets. Pool limit reached.
+Dec 11, 2024 8:39:44 AM core.Vendor run
+INFO: Vendor Vendor7 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:44 AM core.Vendor run
+INFO: Vendor Vendor8 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:44 AM core.Vendor run
+INFO: Vendor Vendor9 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:44 AM core.Vendor run
+INFO: Vendor Vendor10 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:44 AM core.Vendor run
+INFO: Vendor Vendor5 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:45 AM core.Vendor run
+INFO: Vendor Vendor2 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:45 AM core.Vendor run
+INFO: Vendor Vendor1 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:45 AM core.Vendor run
+INFO: Vendor Vendor3 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:45 AM core.Vendor run
+INFO: Vendor Vendor4 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:39:45 AM core.Vendor run
+INFO: Vendor Vendor6 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:45:23 AM core.Vendor run
+INFO: Vendor Vendor4 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:45:23 AM core.Vendor run
+INFO: Vendor Vendor3 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:45:23 AM core.Vendor run
+INFO: Vendor Vendor5 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:45:23 AM core.Vendor run
+INFO: Vendor Vendor7 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:45:24 AM core.Vendor run
+INFO: Vendor Vendor2 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:45:24 AM core.Vendor run
+INFO: Vendor Vendor1 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 8:45:24 AM core.Vendor run
+INFO: Vendor Vendor6 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:08:52 AM core.Vendor run
+INFO: Vendor Vendor2 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:08:52 AM core.Vendor run
+INFO: Vendor Vendor1 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:08:52 AM core.Vendor run
+INFO: Vendor Vendor5 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:08:52 AM core.Vendor run
+INFO: Vendor Vendor4 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:08:53 AM core.Vendor run
+INFO: Vendor Vendor3 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:15:23 AM core.Vendor run
+INFO: Vendor Vendor1 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:15:23 AM core.Vendor run
+INFO: Vendor Vendor2 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:15:23 AM core.Vendor run
+INFO: Vendor Vendor5 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:15:23 AM core.Vendor run
+INFO: Vendor Vendor4 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:15:24 AM core.Vendor run
+INFO: Vendor Vendor3 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:31:05 AM core.Vendor run
+INFO: Vendor Vendor2 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:31:05 AM core.Vendor run
+INFO: Vendor Vendor5 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:31:05 AM core.Vendor run
+INFO: Vendor Vendor3 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:31:05 AM core.Vendor run
+INFO: Vendor Vendor4 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:31:06 AM core.Vendor run
+INFO: Vendor Vendor1 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor3 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor4 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor5 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor6 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor8 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor7 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor9 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor10 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor1 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 9:42:18 AM core.Vendor run
+INFO: Vendor Vendor2 thread stopping. Total Ticket limit reached.
+Dec 11, 2024 10:07:27 AM core.Vendor run
+WARNING: 
+Vendor Vendor5 interrupted.
+Dec 11, 2024 10:07:27 AM core.Vendor run
+WARNING: 
+Vendor Vendor1 interrupted.
+Dec 11, 2024 10:07:27 AM core.Vendor run
+WARNING: 
+Vendor Vendor2 interrupted.
+Dec 11, 2024 10:07:27 AM core.Vendor run
+WARNING: 
+Vendor Vendor3 interrupted.
+Dec 11, 2024 10:07:27 AM core.Vendor run
+WARNING: 
+Vendor Vendor4 interrupted.
+Dec 11, 2024 10:09:16 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Ticket limit reached. Stopping.
+Dec 11, 2024 10:09:16 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Ticket limit reached. Stopping.
+Dec 11, 2024 10:09:16 AM core.Vendor run
+INFO: [Vendor: Vendor5 | Thread: Thread-4] Ticket limit reached. Stopping.
+Dec 11, 2024 10:09:16 AM core.Vendor run
+INFO: [Vendor: Vendor3 | Thread: Thread-2] Ticket limit reached. Stopping.
+Dec 11, 2024 10:09:17 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Ticket limit reached. Stopping.
+Dec 11, 2024 10:34:04 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Ticket limit reached. Stopping.
+Dec 11, 2024 10:34:04 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Ticket limit reached. Stopping.
+Dec 11, 2024 10:34:04 AM core.Vendor run
+INFO: [Vendor: Vendor3 | Thread: Thread-2] Ticket limit reached. Stopping.
+Dec 11, 2024 10:34:04 AM core.Vendor run
+INFO: [Vendor: Vendor5 | Thread: Thread-4] Ticket limit reached. Stopping.
+Dec 11, 2024 10:34:04 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:03 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor5 | Thread: Thread-4] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor6 | Thread: Thread-5] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor9 | Thread: Thread-8] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor10 | Thread: Thread-9] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor7 | Thread: Thread-6] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor3 | Thread: Thread-2] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor8 | Thread: Thread-7] Ticket limit reached. Stopping.
+Dec 11, 2024 10:35:04 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Ticket limit reached. Stopping.
