@@ -1,0 +1,62 @@
+Dec 12, 2024 11:28:32 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Added tickets: [Ticket-Vendor1-1, Ticket-Vendor1-2, Ticket-Vendor1-3, Ticket-Vendor1-4, Ticket-Vendor1-5, Ticket-Vendor1-6, Ticket-Vendor1-7, Ticket-Vendor1-8, Ticket-Vendor1-9, Ticket-Vendor1-10]. Total tickets added: 10.
+Dec 12, 2024 11:28:32 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Added tickets: [Ticket-Vendor2-1, Ticket-Vendor2-2, Ticket-Vendor2-3, Ticket-Vendor2-4, Ticket-Vendor2-5, Ticket-Vendor2-6, Ticket-Vendor2-7, Ticket-Vendor2-8, Ticket-Vendor2-9, Ticket-Vendor2-10]. Total tickets added: 20.
+Dec 12, 2024 11:28:32 AM core.Vendor run
+INFO: [Vendor: Vendor3 | Thread: Thread-2] Added tickets: [Ticket-Vendor3-1, Ticket-Vendor3-2, Ticket-Vendor3-3, Ticket-Vendor3-4, Ticket-Vendor3-5, Ticket-Vendor3-6, Ticket-Vendor3-7, Ticket-Vendor3-8, Ticket-Vendor3-9, Ticket-Vendor3-10]. Total tickets added: 30.
+Dec 12, 2024 11:28:33 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Added tickets: [Ticket-Vendor2-11, Ticket-Vendor2-12, Ticket-Vendor2-13, Ticket-Vendor2-14, Ticket-Vendor2-15, Ticket-Vendor2-16, Ticket-Vendor2-17, Ticket-Vendor2-18, Ticket-Vendor2-19, Ticket-Vendor2-20]. Total tickets added: 40.
+Dec 12, 2024 11:28:34 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Added tickets: [Ticket-Vendor1-11, Ticket-Vendor1-12, Ticket-Vendor1-13, Ticket-Vendor1-14, Ticket-Vendor1-15, Ticket-Vendor1-16, Ticket-Vendor1-17, Ticket-Vendor1-18, Ticket-Vendor1-19, Ticket-Vendor1-20]. Total tickets added: 50.
+Dec 12, 2024 11:28:35 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Added tickets: [Ticket-Vendor4-1, Ticket-Vendor4-2, Ticket-Vendor4-3, Ticket-Vendor4-4, Ticket-Vendor4-5, Ticket-Vendor4-6, Ticket-Vendor4-7, Ticket-Vendor4-8, Ticket-Vendor4-9, Ticket-Vendor4-10]. Total tickets added: 60.
+Dec 12, 2024 11:28:36 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Added tickets: [Ticket-Vendor4-11, Ticket-Vendor4-12, Ticket-Vendor4-13, Ticket-Vendor4-14, Ticket-Vendor4-15, Ticket-Vendor4-16, Ticket-Vendor4-17, Ticket-Vendor4-18, Ticket-Vendor4-19, Ticket-Vendor4-20]. Total tickets added: 70.
+Dec 12, 2024 11:28:37 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Added tickets: [Ticket-Vendor4-21, Ticket-Vendor4-22, Ticket-Vendor4-23, Ticket-Vendor4-24, Ticket-Vendor4-25, Ticket-Vendor4-26, Ticket-Vendor4-27, Ticket-Vendor4-28, Ticket-Vendor4-29, Ticket-Vendor4-30]. Total tickets added: 80.
+Dec 12, 2024 11:28:38 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Added tickets: [Ticket-Vendor4-31, Ticket-Vendor4-32, Ticket-Vendor4-33, Ticket-Vendor4-34, Ticket-Vendor4-35, Ticket-Vendor4-36, Ticket-Vendor4-37, Ticket-Vendor4-38, Ticket-Vendor4-39, Ticket-Vendor4-40]. Total tickets added: 90.
+Dec 12, 2024 11:28:39 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Added tickets: [Ticket-Vendor4-41, Ticket-Vendor4-42, Ticket-Vendor4-43, Ticket-Vendor4-44, Ticket-Vendor4-45, Ticket-Vendor4-46, Ticket-Vendor4-47, Ticket-Vendor4-48, Ticket-Vendor4-49, Ticket-Vendor4-50]. Total tickets added: 100.
+Dec 12, 2024 11:28:40 AM core.Vendor run
+INFO: [Vendor: Vendor3 | Thread: Thread-2] Ticket limit reached. Stopping.
+Dec 12, 2024 11:28:40 AM core.Vendor run
+INFO: [Vendor: Vendor5 | Thread: Thread-4] Ticket limit reached. Stopping.
+Dec 12, 2024 11:28:40 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Ticket limit reached. Stopping.
+Dec 12, 2024 11:28:40 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Ticket limit reached. Stopping.
+Dec 12, 2024 11:28:40 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Ticket limit reached. Stopping.
+Dec 12, 2024 11:29:58 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Added tickets: [Ticket-Vendor1-1, Ticket-Vendor1-2, Ticket-Vendor1-3, Ticket-Vendor1-4, Ticket-Vendor1-5, Ticket-Vendor1-6, Ticket-Vendor1-7, Ticket-Vendor1-8, Ticket-Vendor1-9, Ticket-Vendor1-10, Ticket-Vendor1-11, Ticket-Vendor1-12, Ticket-Vendor1-13, Ticket-Vendor1-14, Ticket-Vendor1-15]. Total tickets added: 15.
+Dec 12, 2024 11:29:58 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Added tickets: [Ticket-Vendor2-1, Ticket-Vendor2-2, Ticket-Vendor2-3, Ticket-Vendor2-4, Ticket-Vendor2-5, Ticket-Vendor2-6, Ticket-Vendor2-7, Ticket-Vendor2-8, Ticket-Vendor2-9, Ticket-Vendor2-10, Ticket-Vendor2-11, Ticket-Vendor2-12, Ticket-Vendor2-13, Ticket-Vendor2-14, Ticket-Vendor2-15]. Total tickets added: 30.
+Dec 12, 2024 11:29:58 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Added tickets: [Ticket-Vendor4-1, Ticket-Vendor4-2, Ticket-Vendor4-3, Ticket-Vendor4-4, Ticket-Vendor4-5, Ticket-Vendor4-6, Ticket-Vendor4-7, Ticket-Vendor4-8, Ticket-Vendor4-9, Ticket-Vendor4-10, Ticket-Vendor4-11, Ticket-Vendor4-12, Ticket-Vendor4-13, Ticket-Vendor4-14, Ticket-Vendor4-15]. Total tickets added: 45.
+Dec 12, 2024 11:29:59 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Added tickets: [Ticket-Vendor2-16, Ticket-Vendor2-17, Ticket-Vendor2-18, Ticket-Vendor2-19, Ticket-Vendor2-20, Ticket-Vendor2-21, Ticket-Vendor2-22, Ticket-Vendor2-23, Ticket-Vendor2-24, Ticket-Vendor2-25, Ticket-Vendor2-26, Ticket-Vendor2-27, Ticket-Vendor2-28, Ticket-Vendor2-29, Ticket-Vendor2-30]. Total tickets added: 60.
+Dec 12, 2024 11:30:00 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Added tickets: [Ticket-Vendor1-16, Ticket-Vendor1-17, Ticket-Vendor1-18, Ticket-Vendor1-19, Ticket-Vendor1-20, Ticket-Vendor1-21, Ticket-Vendor1-22, Ticket-Vendor1-23, Ticket-Vendor1-24, Ticket-Vendor1-25, Ticket-Vendor1-26, Ticket-Vendor1-27, Ticket-Vendor1-28, Ticket-Vendor1-29, Ticket-Vendor1-30]. Total tickets added: 75.
+Dec 12, 2024 11:30:01 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Added tickets: [Ticket-Vendor2-31, Ticket-Vendor2-32, Ticket-Vendor2-33, Ticket-Vendor2-34, Ticket-Vendor2-35, Ticket-Vendor2-36, Ticket-Vendor2-37, Ticket-Vendor2-38, Ticket-Vendor2-39, Ticket-Vendor2-40, Ticket-Vendor2-41, Ticket-Vendor2-42, Ticket-Vendor2-43, Ticket-Vendor2-44, Ticket-Vendor2-45]. Total tickets added: 90.
+Dec 12, 2024 11:30:01 AM core.Vendor run
+INFO: [Vendor: Vendor1 | Thread: Thread-0] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor3 | Thread: Thread-2] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor5 | Thread: Thread-4] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor6 | Thread: Thread-5] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor7 | Thread: Thread-6] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor8 | Thread: Thread-7] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor9 | Thread: Thread-8] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor10 | Thread: Thread-9] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor4 | Thread: Thread-3] Ticket limit reached. Stopping.
+Dec 12, 2024 11:30:02 AM core.Vendor run
+INFO: [Vendor: Vendor2 | Thread: Thread-1] Ticket limit reached. Stopping.

@@ -1,0 +1,800 @@
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-1 | Pool Size: 1 | Total Tickets Added: 1
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-2 | Pool Size: 2 | Total Tickets Added: 2
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-3 | Pool Size: 3 | Total Tickets Added: 3
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-4 | Pool Size: 4 | Total Tickets Added: 4
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-5 | Pool Size: 5 | Total Tickets Added: 5
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-6 | Pool Size: 6 | Total Tickets Added: 6
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-7 | Pool Size: 7 | Total Tickets Added: 7
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-8 | Pool Size: 8 | Total Tickets Added: 8
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-9 | Pool Size: 9 | Total Tickets Added: 9
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-10 | Pool Size: 10 | Total Tickets Added: 10
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-1 | Pool Size: 11 | Total Tickets Added: 11
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-2 | Pool Size: 12 | Total Tickets Added: 12
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-3 | Pool Size: 13 | Total Tickets Added: 13
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-4 | Pool Size: 14 | Total Tickets Added: 14
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-5 | Pool Size: 15 | Total Tickets Added: 15
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-6 | Pool Size: 16 | Total Tickets Added: 16
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-7 | Pool Size: 17 | Total Tickets Added: 17
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-8 | Pool Size: 18 | Total Tickets Added: 18
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-9 | Pool Size: 19 | Total Tickets Added: 19
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-10 | Pool Size: 20 | Total Tickets Added: 20
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-1 | Pool Size: 19 | Tickets Sold: 1 | Total Tickets Left: 99
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-2 | Pool Size: 18 | Tickets Sold: 2 | Total Tickets Left: 98
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-3 | Pool Size: 17 | Tickets Sold: 3 | Total Tickets Left: 97
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-4 | Pool Size: 16 | Tickets Sold: 4 | Total Tickets Left: 96
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-5 | Pool Size: 15 | Tickets Sold: 5 | Total Tickets Left: 95
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-6 | Pool Size: 14 | Tickets Sold: 6 | Total Tickets Left: 94
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-7 | Pool Size: 13 | Tickets Sold: 7 | Total Tickets Left: 93
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-8 | Pool Size: 12 | Tickets Sold: 8 | Total Tickets Left: 92
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-9 | Pool Size: 11 | Tickets Sold: 9 | Total Tickets Left: 91
+Dec 12, 2024 11:28:32 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-10 | Pool Size: 10 | Tickets Sold: 10 | Total Tickets Left: 90
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-1 | Pool Size: 11 | Total Tickets Added: 21
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-2 | Pool Size: 12 | Total Tickets Added: 22
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-3 | Pool Size: 13 | Total Tickets Added: 23
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-4 | Pool Size: 14 | Total Tickets Added: 24
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-5 | Pool Size: 15 | Total Tickets Added: 25
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-6 | Pool Size: 16 | Total Tickets Added: 26
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-7 | Pool Size: 17 | Total Tickets Added: 27
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-8 | Pool Size: 18 | Total Tickets Added: 28
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-9 | Pool Size: 19 | Total Tickets Added: 29
+Dec 12, 2024 11:28:32 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor3-10 | Pool Size: 20 | Total Tickets Added: 30
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-1 | Pool Size: 19 | Tickets Sold: 11 | Total Tickets Left: 89
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-2 | Pool Size: 18 | Tickets Sold: 12 | Total Tickets Left: 88
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-3 | Pool Size: 17 | Tickets Sold: 13 | Total Tickets Left: 87
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-4 | Pool Size: 16 | Tickets Sold: 14 | Total Tickets Left: 86
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-5 | Pool Size: 15 | Tickets Sold: 15 | Total Tickets Left: 85
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-6 | Pool Size: 14 | Tickets Sold: 16 | Total Tickets Left: 84
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-7 | Pool Size: 13 | Tickets Sold: 17 | Total Tickets Left: 83
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-8 | Pool Size: 12 | Tickets Sold: 18 | Total Tickets Left: 82
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-9 | Pool Size: 11 | Tickets Sold: 19 | Total Tickets Left: 81
+Dec 12, 2024 11:28:33 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-10 | Pool Size: 10 | Tickets Sold: 20 | Total Tickets Left: 80
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-11 | Pool Size: 11 | Total Tickets Added: 31
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-12 | Pool Size: 12 | Total Tickets Added: 32
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-13 | Pool Size: 13 | Total Tickets Added: 33
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-14 | Pool Size: 14 | Total Tickets Added: 34
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-15 | Pool Size: 15 | Total Tickets Added: 35
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-16 | Pool Size: 16 | Total Tickets Added: 36
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-17 | Pool Size: 17 | Total Tickets Added: 37
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-18 | Pool Size: 18 | Total Tickets Added: 38
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-19 | Pool Size: 19 | Total Tickets Added: 39
+Dec 12, 2024 11:28:33 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-20 | Pool Size: 20 | Total Tickets Added: 40
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-1 | Pool Size: 19 | Tickets Sold: 21 | Total Tickets Left: 79
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-2 | Pool Size: 18 | Tickets Sold: 22 | Total Tickets Left: 78
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-3 | Pool Size: 17 | Tickets Sold: 23 | Total Tickets Left: 77
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-4 | Pool Size: 16 | Tickets Sold: 24 | Total Tickets Left: 76
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-5 | Pool Size: 15 | Tickets Sold: 25 | Total Tickets Left: 75
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-6 | Pool Size: 14 | Tickets Sold: 26 | Total Tickets Left: 74
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-7 | Pool Size: 13 | Tickets Sold: 27 | Total Tickets Left: 73
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-8 | Pool Size: 12 | Tickets Sold: 28 | Total Tickets Left: 72
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-9 | Pool Size: 11 | Tickets Sold: 29 | Total Tickets Left: 71
+Dec 12, 2024 11:28:34 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor3-10 | Pool Size: 10 | Tickets Sold: 30 | Total Tickets Left: 70
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-11 | Pool Size: 11 | Total Tickets Added: 41
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-12 | Pool Size: 12 | Total Tickets Added: 42
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-13 | Pool Size: 13 | Total Tickets Added: 43
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-14 | Pool Size: 14 | Total Tickets Added: 44
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-15 | Pool Size: 15 | Total Tickets Added: 45
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-16 | Pool Size: 16 | Total Tickets Added: 46
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-17 | Pool Size: 17 | Total Tickets Added: 47
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-18 | Pool Size: 18 | Total Tickets Added: 48
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-19 | Pool Size: 19 | Total Tickets Added: 49
+Dec 12, 2024 11:28:34 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-20 | Pool Size: 20 | Total Tickets Added: 50
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-11 | Pool Size: 19 | Tickets Sold: 31 | Total Tickets Left: 69
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-12 | Pool Size: 18 | Tickets Sold: 32 | Total Tickets Left: 68
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-13 | Pool Size: 17 | Tickets Sold: 33 | Total Tickets Left: 67
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-14 | Pool Size: 16 | Tickets Sold: 34 | Total Tickets Left: 66
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-15 | Pool Size: 15 | Tickets Sold: 35 | Total Tickets Left: 65
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-16 | Pool Size: 14 | Tickets Sold: 36 | Total Tickets Left: 64
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-17 | Pool Size: 13 | Tickets Sold: 37 | Total Tickets Left: 63
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-18 | Pool Size: 12 | Tickets Sold: 38 | Total Tickets Left: 62
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-19 | Pool Size: 11 | Tickets Sold: 39 | Total Tickets Left: 61
+Dec 12, 2024 11:28:35 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-20 | Pool Size: 10 | Tickets Sold: 40 | Total Tickets Left: 60
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-1 | Pool Size: 11 | Total Tickets Added: 51
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-2 | Pool Size: 12 | Total Tickets Added: 52
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-3 | Pool Size: 13 | Total Tickets Added: 53
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-4 | Pool Size: 14 | Total Tickets Added: 54
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-5 | Pool Size: 15 | Total Tickets Added: 55
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-6 | Pool Size: 16 | Total Tickets Added: 56
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-7 | Pool Size: 17 | Total Tickets Added: 57
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-8 | Pool Size: 18 | Total Tickets Added: 58
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-9 | Pool Size: 19 | Total Tickets Added: 59
+Dec 12, 2024 11:28:35 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-10 | Pool Size: 20 | Total Tickets Added: 60
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-11 | Pool Size: 19 | Tickets Sold: 41 | Total Tickets Left: 59
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-12 | Pool Size: 18 | Tickets Sold: 42 | Total Tickets Left: 58
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-13 | Pool Size: 17 | Tickets Sold: 43 | Total Tickets Left: 57
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-14 | Pool Size: 16 | Tickets Sold: 44 | Total Tickets Left: 56
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-15 | Pool Size: 15 | Tickets Sold: 45 | Total Tickets Left: 55
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-16 | Pool Size: 14 | Tickets Sold: 46 | Total Tickets Left: 54
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-17 | Pool Size: 13 | Tickets Sold: 47 | Total Tickets Left: 53
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-11 | Pool Size: 14 | Total Tickets Added: 61
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-12 | Pool Size: 15 | Total Tickets Added: 62
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-13 | Pool Size: 16 | Total Tickets Added: 63
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-14 | Pool Size: 17 | Total Tickets Added: 64
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-15 | Pool Size: 18 | Total Tickets Added: 65
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-16 | Pool Size: 19 | Total Tickets Added: 66
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-17 | Pool Size: 20 | Total Tickets Added: 67
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-18 | Pool Size: 21 | Total Tickets Added: 68
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-19 | Pool Size: 22 | Total Tickets Added: 69
+Dec 12, 2024 11:28:36 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-20 | Pool Size: 23 | Total Tickets Added: 70
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-18 | Pool Size: 22 | Tickets Sold: 48 | Total Tickets Left: 52
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-19 | Pool Size: 21 | Tickets Sold: 49 | Total Tickets Left: 51
+Dec 12, 2024 11:28:36 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-20 | Pool Size: 20 | Tickets Sold: 50 | Total Tickets Left: 50
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-1 | Pool Size: 19 | Tickets Sold: 51 | Total Tickets Left: 49
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-2 | Pool Size: 18 | Tickets Sold: 52 | Total Tickets Left: 48
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-3 | Pool Size: 17 | Tickets Sold: 53 | Total Tickets Left: 47
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-4 | Pool Size: 16 | Tickets Sold: 54 | Total Tickets Left: 46
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-5 | Pool Size: 15 | Tickets Sold: 55 | Total Tickets Left: 45
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-6 | Pool Size: 14 | Tickets Sold: 56 | Total Tickets Left: 44
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-7 | Pool Size: 13 | Tickets Sold: 57 | Total Tickets Left: 43
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-21 | Pool Size: 14 | Total Tickets Added: 71
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-22 | Pool Size: 15 | Total Tickets Added: 72
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-23 | Pool Size: 16 | Total Tickets Added: 73
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-24 | Pool Size: 17 | Total Tickets Added: 74
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-25 | Pool Size: 18 | Total Tickets Added: 75
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-26 | Pool Size: 19 | Total Tickets Added: 76
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-27 | Pool Size: 20 | Total Tickets Added: 77
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-28 | Pool Size: 21 | Total Tickets Added: 78
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-29 | Pool Size: 22 | Total Tickets Added: 79
+Dec 12, 2024 11:28:37 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-30 | Pool Size: 23 | Total Tickets Added: 80
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-8 | Pool Size: 22 | Tickets Sold: 58 | Total Tickets Left: 42
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-9 | Pool Size: 21 | Tickets Sold: 59 | Total Tickets Left: 41
+Dec 12, 2024 11:28:37 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-10 | Pool Size: 20 | Tickets Sold: 60 | Total Tickets Left: 40
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-11 | Pool Size: 19 | Tickets Sold: 61 | Total Tickets Left: 39
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-12 | Pool Size: 18 | Tickets Sold: 62 | Total Tickets Left: 38
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-13 | Pool Size: 17 | Tickets Sold: 63 | Total Tickets Left: 37
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-14 | Pool Size: 16 | Tickets Sold: 64 | Total Tickets Left: 36
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-15 | Pool Size: 15 | Tickets Sold: 65 | Total Tickets Left: 35
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-16 | Pool Size: 14 | Tickets Sold: 66 | Total Tickets Left: 34
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-17 | Pool Size: 13 | Tickets Sold: 67 | Total Tickets Left: 33
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-31 | Pool Size: 14 | Total Tickets Added: 81
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-32 | Pool Size: 15 | Total Tickets Added: 82
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-33 | Pool Size: 16 | Total Tickets Added: 83
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-34 | Pool Size: 17 | Total Tickets Added: 84
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-35 | Pool Size: 18 | Total Tickets Added: 85
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-36 | Pool Size: 19 | Total Tickets Added: 86
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-37 | Pool Size: 20 | Total Tickets Added: 87
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-38 | Pool Size: 21 | Total Tickets Added: 88
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-39 | Pool Size: 22 | Total Tickets Added: 89
+Dec 12, 2024 11:28:38 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-40 | Pool Size: 23 | Total Tickets Added: 90
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-18 | Pool Size: 22 | Tickets Sold: 68 | Total Tickets Left: 32
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-19 | Pool Size: 21 | Tickets Sold: 69 | Total Tickets Left: 31
+Dec 12, 2024 11:28:38 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-20 | Pool Size: 20 | Tickets Sold: 70 | Total Tickets Left: 30
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-21 | Pool Size: 19 | Tickets Sold: 71 | Total Tickets Left: 29
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-22 | Pool Size: 18 | Tickets Sold: 72 | Total Tickets Left: 28
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-23 | Pool Size: 17 | Tickets Sold: 73 | Total Tickets Left: 27
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-24 | Pool Size: 16 | Tickets Sold: 74 | Total Tickets Left: 26
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-25 | Pool Size: 15 | Tickets Sold: 75 | Total Tickets Left: 25
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-26 | Pool Size: 14 | Tickets Sold: 76 | Total Tickets Left: 24
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-41 | Pool Size: 15 | Total Tickets Added: 91
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-42 | Pool Size: 16 | Total Tickets Added: 92
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-43 | Pool Size: 17 | Total Tickets Added: 93
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-44 | Pool Size: 18 | Total Tickets Added: 94
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-45 | Pool Size: 19 | Total Tickets Added: 95
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-46 | Pool Size: 20 | Total Tickets Added: 96
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-47 | Pool Size: 21 | Total Tickets Added: 97
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-48 | Pool Size: 22 | Total Tickets Added: 98
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-49 | Pool Size: 23 | Total Tickets Added: 99
+Dec 12, 2024 11:28:39 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-50 | Pool Size: 24 | Total Tickets Added: 100
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-27 | Pool Size: 23 | Tickets Sold: 77 | Total Tickets Left: 23
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-28 | Pool Size: 22 | Tickets Sold: 78 | Total Tickets Left: 22
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-29 | Pool Size: 21 | Tickets Sold: 79 | Total Tickets Left: 21
+Dec 12, 2024 11:28:39 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-30 | Pool Size: 20 | Tickets Sold: 80 | Total Tickets Left: 20
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-31 | Pool Size: 19 | Tickets Sold: 81 | Total Tickets Left: 19
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-32 | Pool Size: 18 | Tickets Sold: 82 | Total Tickets Left: 18
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-33 | Pool Size: 17 | Tickets Sold: 83 | Total Tickets Left: 17
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-34 | Pool Size: 16 | Tickets Sold: 84 | Total Tickets Left: 16
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-35 | Pool Size: 15 | Tickets Sold: 85 | Total Tickets Left: 15
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-36 | Pool Size: 14 | Tickets Sold: 86 | Total Tickets Left: 14
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-37 | Pool Size: 13 | Tickets Sold: 87 | Total Tickets Left: 13
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-38 | Pool Size: 12 | Tickets Sold: 88 | Total Tickets Left: 12
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-39 | Pool Size: 11 | Tickets Sold: 89 | Total Tickets Left: 11
+Dec 12, 2024 11:28:40 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-40 | Pool Size: 10 | Tickets Sold: 90 | Total Tickets Left: 10
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-41 | Pool Size: 9 | Tickets Sold: 91 | Total Tickets Left: 9
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-42 | Pool Size: 8 | Tickets Sold: 92 | Total Tickets Left: 8
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-43 | Pool Size: 7 | Tickets Sold: 93 | Total Tickets Left: 7
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-44 | Pool Size: 6 | Tickets Sold: 94 | Total Tickets Left: 6
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-45 | Pool Size: 5 | Tickets Sold: 95 | Total Tickets Left: 5
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-46 | Pool Size: 4 | Tickets Sold: 96 | Total Tickets Left: 4
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-47 | Pool Size: 3 | Tickets Sold: 97 | Total Tickets Left: 3
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-48 | Pool Size: 2 | Tickets Sold: 98 | Total Tickets Left: 2
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-49 | Pool Size: 1 | Tickets Sold: 99 | Total Tickets Left: 1
+Dec 12, 2024 11:28:41 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-50 | Pool Size: 0 | Tickets Sold: 100 | Total Tickets Left: 0
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-1 | Pool Size: 1 | Total Tickets Added: 1
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-2 | Pool Size: 2 | Total Tickets Added: 2
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-3 | Pool Size: 3 | Total Tickets Added: 3
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-4 | Pool Size: 4 | Total Tickets Added: 4
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-5 | Pool Size: 5 | Total Tickets Added: 5
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-6 | Pool Size: 6 | Total Tickets Added: 6
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-7 | Pool Size: 7 | Total Tickets Added: 7
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-8 | Pool Size: 8 | Total Tickets Added: 8
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-9 | Pool Size: 9 | Total Tickets Added: 9
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-10 | Pool Size: 10 | Total Tickets Added: 10
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-11 | Pool Size: 11 | Total Tickets Added: 11
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-12 | Pool Size: 12 | Total Tickets Added: 12
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-13 | Pool Size: 13 | Total Tickets Added: 13
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-14 | Pool Size: 14 | Total Tickets Added: 14
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-15 | Pool Size: 15 | Total Tickets Added: 15
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-1 | Pool Size: 14 | Tickets Sold: 1 | Total Tickets Left: 99
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-2 | Pool Size: 13 | Tickets Sold: 2 | Total Tickets Left: 98
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-3 | Pool Size: 12 | Tickets Sold: 3 | Total Tickets Left: 97
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-4 | Pool Size: 11 | Tickets Sold: 4 | Total Tickets Left: 96
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-5 | Pool Size: 10 | Tickets Sold: 5 | Total Tickets Left: 95
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-6 | Pool Size: 9 | Tickets Sold: 6 | Total Tickets Left: 94
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-7 | Pool Size: 8 | Tickets Sold: 7 | Total Tickets Left: 93
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-8 | Pool Size: 7 | Tickets Sold: 8 | Total Tickets Left: 92
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-9 | Pool Size: 6 | Tickets Sold: 9 | Total Tickets Left: 91
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-10 | Pool Size: 5 | Tickets Sold: 10 | Total Tickets Left: 90
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-11 | Pool Size: 4 | Tickets Sold: 11 | Total Tickets Left: 89
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-12 | Pool Size: 3 | Tickets Sold: 12 | Total Tickets Left: 88
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-13 | Pool Size: 2 | Tickets Sold: 13 | Total Tickets Left: 87
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-14 | Pool Size: 1 | Tickets Sold: 14 | Total Tickets Left: 86
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-15 | Pool Size: 0 | Tickets Sold: 15 | Total Tickets Left: 85
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-1 | Pool Size: 1 | Total Tickets Added: 16
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-2 | Pool Size: 2 | Total Tickets Added: 17
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-3 | Pool Size: 3 | Total Tickets Added: 18
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-4 | Pool Size: 4 | Total Tickets Added: 19
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-5 | Pool Size: 5 | Total Tickets Added: 20
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-6 | Pool Size: 6 | Total Tickets Added: 21
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-7 | Pool Size: 7 | Total Tickets Added: 22
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-8 | Pool Size: 8 | Total Tickets Added: 23
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-9 | Pool Size: 9 | Total Tickets Added: 24
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-10 | Pool Size: 10 | Total Tickets Added: 25
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-11 | Pool Size: 11 | Total Tickets Added: 26
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-12 | Pool Size: 12 | Total Tickets Added: 27
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-13 | Pool Size: 13 | Total Tickets Added: 28
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-14 | Pool Size: 14 | Total Tickets Added: 29
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-15 | Pool Size: 15 | Total Tickets Added: 30
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-1 | Pool Size: 14 | Tickets Sold: 16 | Total Tickets Left: 84
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-2 | Pool Size: 13 | Tickets Sold: 17 | Total Tickets Left: 83
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-3 | Pool Size: 12 | Tickets Sold: 18 | Total Tickets Left: 82
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-4 | Pool Size: 11 | Tickets Sold: 19 | Total Tickets Left: 81
+Dec 12, 2024 11:29:58 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-5 | Pool Size: 10 | Tickets Sold: 20 | Total Tickets Left: 80
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-1 | Pool Size: 11 | Total Tickets Added: 31
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-2 | Pool Size: 12 | Total Tickets Added: 32
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-3 | Pool Size: 13 | Total Tickets Added: 33
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-4 | Pool Size: 14 | Total Tickets Added: 34
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-5 | Pool Size: 15 | Total Tickets Added: 35
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-6 | Pool Size: 16 | Total Tickets Added: 36
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-7 | Pool Size: 17 | Total Tickets Added: 37
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-8 | Pool Size: 18 | Total Tickets Added: 38
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-9 | Pool Size: 19 | Total Tickets Added: 39
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-10 | Pool Size: 20 | Total Tickets Added: 40
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-11 | Pool Size: 21 | Total Tickets Added: 41
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-12 | Pool Size: 22 | Total Tickets Added: 42
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-13 | Pool Size: 23 | Total Tickets Added: 43
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-14 | Pool Size: 24 | Total Tickets Added: 44
+Dec 12, 2024 11:29:58 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor4-15 | Pool Size: 25 | Total Tickets Added: 45
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-6 | Pool Size: 24 | Tickets Sold: 21 | Total Tickets Left: 79
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-7 | Pool Size: 23 | Tickets Sold: 22 | Total Tickets Left: 78
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-8 | Pool Size: 22 | Tickets Sold: 23 | Total Tickets Left: 77
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-9 | Pool Size: 21 | Tickets Sold: 24 | Total Tickets Left: 76
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-10 | Pool Size: 20 | Tickets Sold: 25 | Total Tickets Left: 75
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-11 | Pool Size: 19 | Tickets Sold: 26 | Total Tickets Left: 74
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-12 | Pool Size: 18 | Tickets Sold: 27 | Total Tickets Left: 73
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-13 | Pool Size: 17 | Tickets Sold: 28 | Total Tickets Left: 72
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-14 | Pool Size: 16 | Tickets Sold: 29 | Total Tickets Left: 71
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-15 | Pool Size: 15 | Tickets Sold: 30 | Total Tickets Left: 70
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-1 | Pool Size: 14 | Tickets Sold: 31 | Total Tickets Left: 69
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-2 | Pool Size: 13 | Tickets Sold: 32 | Total Tickets Left: 68
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-3 | Pool Size: 12 | Tickets Sold: 33 | Total Tickets Left: 67
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-4 | Pool Size: 11 | Tickets Sold: 34 | Total Tickets Left: 66
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-5 | Pool Size: 10 | Tickets Sold: 35 | Total Tickets Left: 65
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-6 | Pool Size: 9 | Tickets Sold: 36 | Total Tickets Left: 64
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-7 | Pool Size: 8 | Tickets Sold: 37 | Total Tickets Left: 63
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-8 | Pool Size: 7 | Tickets Sold: 38 | Total Tickets Left: 62
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-16 | Pool Size: 8 | Total Tickets Added: 46
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-17 | Pool Size: 9 | Total Tickets Added: 47
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-18 | Pool Size: 10 | Total Tickets Added: 48
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-19 | Pool Size: 11 | Total Tickets Added: 49
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-20 | Pool Size: 12 | Total Tickets Added: 50
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-21 | Pool Size: 13 | Total Tickets Added: 51
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-22 | Pool Size: 14 | Total Tickets Added: 52
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-23 | Pool Size: 15 | Total Tickets Added: 53
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-24 | Pool Size: 16 | Total Tickets Added: 54
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-25 | Pool Size: 17 | Total Tickets Added: 55
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-26 | Pool Size: 18 | Total Tickets Added: 56
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-27 | Pool Size: 19 | Total Tickets Added: 57
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-28 | Pool Size: 20 | Total Tickets Added: 58
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-29 | Pool Size: 21 | Total Tickets Added: 59
+Dec 12, 2024 11:29:59 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-30 | Pool Size: 22 | Total Tickets Added: 60
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-9 | Pool Size: 21 | Tickets Sold: 39 | Total Tickets Left: 61
+Dec 12, 2024 11:29:59 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-10 | Pool Size: 20 | Tickets Sold: 40 | Total Tickets Left: 60
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-11 | Pool Size: 19 | Tickets Sold: 41 | Total Tickets Left: 59
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-12 | Pool Size: 18 | Tickets Sold: 42 | Total Tickets Left: 58
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-13 | Pool Size: 17 | Tickets Sold: 43 | Total Tickets Left: 57
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-14 | Pool Size: 16 | Tickets Sold: 44 | Total Tickets Left: 56
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor4-15 | Pool Size: 15 | Tickets Sold: 45 | Total Tickets Left: 55
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-16 | Pool Size: 14 | Tickets Sold: 46 | Total Tickets Left: 54
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-17 | Pool Size: 13 | Tickets Sold: 47 | Total Tickets Left: 53
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-18 | Pool Size: 12 | Tickets Sold: 48 | Total Tickets Left: 52
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-19 | Pool Size: 11 | Tickets Sold: 49 | Total Tickets Left: 51
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-20 | Pool Size: 10 | Tickets Sold: 50 | Total Tickets Left: 50
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-21 | Pool Size: 9 | Tickets Sold: 51 | Total Tickets Left: 49
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-22 | Pool Size: 8 | Tickets Sold: 52 | Total Tickets Left: 48
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-23 | Pool Size: 7 | Tickets Sold: 53 | Total Tickets Left: 47
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-24 | Pool Size: 6 | Tickets Sold: 54 | Total Tickets Left: 46
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-25 | Pool Size: 5 | Tickets Sold: 55 | Total Tickets Left: 45
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-26 | Pool Size: 4 | Tickets Sold: 56 | Total Tickets Left: 44
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-27 | Pool Size: 3 | Tickets Sold: 57 | Total Tickets Left: 43
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-28 | Pool Size: 2 | Tickets Sold: 58 | Total Tickets Left: 42
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-16 | Pool Size: 3 | Total Tickets Added: 61
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-17 | Pool Size: 4 | Total Tickets Added: 62
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-18 | Pool Size: 5 | Total Tickets Added: 63
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-19 | Pool Size: 6 | Total Tickets Added: 64
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-20 | Pool Size: 7 | Total Tickets Added: 65
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-21 | Pool Size: 8 | Total Tickets Added: 66
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-22 | Pool Size: 9 | Total Tickets Added: 67
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-23 | Pool Size: 10 | Total Tickets Added: 68
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-24 | Pool Size: 11 | Total Tickets Added: 69
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-25 | Pool Size: 12 | Total Tickets Added: 70
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-26 | Pool Size: 13 | Total Tickets Added: 71
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-27 | Pool Size: 14 | Total Tickets Added: 72
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-28 | Pool Size: 15 | Total Tickets Added: 73
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-29 | Pool Size: 16 | Total Tickets Added: 74
+Dec 12, 2024 11:30:00 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-30 | Pool Size: 17 | Total Tickets Added: 75
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-29 | Pool Size: 16 | Tickets Sold: 59 | Total Tickets Left: 41
+Dec 12, 2024 11:30:00 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-30 | Pool Size: 15 | Tickets Sold: 60 | Total Tickets Left: 40
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-16 | Pool Size: 14 | Tickets Sold: 61 | Total Tickets Left: 39
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-17 | Pool Size: 13 | Tickets Sold: 62 | Total Tickets Left: 38
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-18 | Pool Size: 12 | Tickets Sold: 63 | Total Tickets Left: 37
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-19 | Pool Size: 11 | Tickets Sold: 64 | Total Tickets Left: 36
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-20 | Pool Size: 10 | Tickets Sold: 65 | Total Tickets Left: 35
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-21 | Pool Size: 9 | Tickets Sold: 66 | Total Tickets Left: 34
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-22 | Pool Size: 8 | Tickets Sold: 67 | Total Tickets Left: 33
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-23 | Pool Size: 7 | Tickets Sold: 68 | Total Tickets Left: 32
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-24 | Pool Size: 6 | Tickets Sold: 69 | Total Tickets Left: 31
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-25 | Pool Size: 5 | Tickets Sold: 70 | Total Tickets Left: 30
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-26 | Pool Size: 4 | Tickets Sold: 71 | Total Tickets Left: 29
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-27 | Pool Size: 3 | Tickets Sold: 72 | Total Tickets Left: 28
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-28 | Pool Size: 2 | Tickets Sold: 73 | Total Tickets Left: 27
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-29 | Pool Size: 1 | Tickets Sold: 74 | Total Tickets Left: 26
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-31 | Pool Size: 2 | Total Tickets Added: 76
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-32 | Pool Size: 3 | Total Tickets Added: 77
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-33 | Pool Size: 4 | Total Tickets Added: 78
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-34 | Pool Size: 5 | Total Tickets Added: 79
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-35 | Pool Size: 6 | Total Tickets Added: 80
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-36 | Pool Size: 7 | Total Tickets Added: 81
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-37 | Pool Size: 8 | Total Tickets Added: 82
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-38 | Pool Size: 9 | Total Tickets Added: 83
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-39 | Pool Size: 10 | Total Tickets Added: 84
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-40 | Pool Size: 11 | Total Tickets Added: 85
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-41 | Pool Size: 12 | Total Tickets Added: 86
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-42 | Pool Size: 13 | Total Tickets Added: 87
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-43 | Pool Size: 14 | Total Tickets Added: 88
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-44 | Pool Size: 15 | Total Tickets Added: 89
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor2-45 | Pool Size: 16 | Total Tickets Added: 90
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-30 | Pool Size: 15 | Tickets Sold: 75 | Total Tickets Left: 25
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-31 | Pool Size: 14 | Tickets Sold: 76 | Total Tickets Left: 24
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-32 | Pool Size: 13 | Tickets Sold: 77 | Total Tickets Left: 23
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-33 | Pool Size: 12 | Tickets Sold: 78 | Total Tickets Left: 22
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-34 | Pool Size: 11 | Tickets Sold: 79 | Total Tickets Left: 21
+Dec 12, 2024 11:30:01 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-35 | Pool Size: 10 | Tickets Sold: 80 | Total Tickets Left: 20
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-31 | Pool Size: 11 | Total Tickets Added: 91
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-32 | Pool Size: 12 | Total Tickets Added: 92
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-33 | Pool Size: 13 | Total Tickets Added: 93
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-34 | Pool Size: 14 | Total Tickets Added: 94
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-35 | Pool Size: 15 | Total Tickets Added: 95
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-36 | Pool Size: 16 | Total Tickets Added: 96
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-37 | Pool Size: 17 | Total Tickets Added: 97
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-38 | Pool Size: 18 | Total Tickets Added: 98
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-39 | Pool Size: 19 | Total Tickets Added: 99
+Dec 12, 2024 11:30:01 AM core.TicketPool addTickets
+INFO: Ticket Added: Ticket-Vendor1-40 | Pool Size: 20 | Total Tickets Added: 100
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-36 | Pool Size: 19 | Tickets Sold: 81 | Total Tickets Left: 19
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-37 | Pool Size: 18 | Tickets Sold: 82 | Total Tickets Left: 18
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-38 | Pool Size: 17 | Tickets Sold: 83 | Total Tickets Left: 17
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-39 | Pool Size: 16 | Tickets Sold: 84 | Total Tickets Left: 16
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-40 | Pool Size: 15 | Tickets Sold: 85 | Total Tickets Left: 15
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-41 | Pool Size: 14 | Tickets Sold: 86 | Total Tickets Left: 14
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-42 | Pool Size: 13 | Tickets Sold: 87 | Total Tickets Left: 13
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-43 | Pool Size: 12 | Tickets Sold: 88 | Total Tickets Left: 12
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-44 | Pool Size: 11 | Tickets Sold: 89 | Total Tickets Left: 11
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor2-45 | Pool Size: 10 | Tickets Sold: 90 | Total Tickets Left: 10
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-31 | Pool Size: 9 | Tickets Sold: 91 | Total Tickets Left: 9
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-32 | Pool Size: 8 | Tickets Sold: 92 | Total Tickets Left: 8
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-33 | Pool Size: 7 | Tickets Sold: 93 | Total Tickets Left: 7
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-34 | Pool Size: 6 | Tickets Sold: 94 | Total Tickets Left: 6
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-35 | Pool Size: 5 | Tickets Sold: 95 | Total Tickets Left: 5
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-36 | Pool Size: 4 | Tickets Sold: 96 | Total Tickets Left: 4
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-37 | Pool Size: 3 | Tickets Sold: 97 | Total Tickets Left: 3
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-38 | Pool Size: 2 | Tickets Sold: 98 | Total Tickets Left: 2
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-39 | Pool Size: 1 | Tickets Sold: 99 | Total Tickets Left: 1
+Dec 12, 2024 11:30:02 AM core.TicketPool removeTicket
+INFO: Ticket Purchased: Ticket-Vendor1-40 | Pool Size: 0 | Tickets Sold: 100 | Total Tickets Left: 0

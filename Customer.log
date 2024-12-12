@@ -1,0 +1,460 @@
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor1-1. Tickets sold: 1/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor1-2. Tickets sold: 2/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor1-3. Tickets sold: 3/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor1-4. Tickets sold: 4/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor1-5. Tickets sold: 5/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor1-6. Tickets sold: 6/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor1-7. Tickets sold: 7/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor1-8. Tickets sold: 8/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor1-9. Tickets sold: 9/100.
+Dec 12, 2024 11:28:32 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor1-10. Tickets sold: 10/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor2-1. Tickets sold: 11/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor2-2. Tickets sold: 12/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor2-3. Tickets sold: 14/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor2-4. Tickets sold: 14/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor2-5. Tickets sold: 15/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor2-6. Tickets sold: 16/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor2-7. Tickets sold: 17/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor2-8. Tickets sold: 18/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor2-9. Tickets sold: 19/100.
+Dec 12, 2024 11:28:33 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor2-10. Tickets sold: 20/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor3-1. Tickets sold: 21/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor3-2. Tickets sold: 22/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor3-3. Tickets sold: 23/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor3-4. Tickets sold: 24/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor3-5. Tickets sold: 25/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor3-6. Tickets sold: 26/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor3-7. Tickets sold: 27/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor3-8. Tickets sold: 28/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor3-9. Tickets sold: 29/100.
+Dec 12, 2024 11:28:34 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor3-10. Tickets sold: 30/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor2-11. Tickets sold: 31/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor2-12. Tickets sold: 32/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor2-13. Tickets sold: 33/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor2-14. Tickets sold: 34/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor2-15. Tickets sold: 35/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor2-16. Tickets sold: 36/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor2-17. Tickets sold: 37/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor2-18. Tickets sold: 38/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor2-19. Tickets sold: 39/100.
+Dec 12, 2024 11:28:35 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor2-20. Tickets sold: 40/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor1-11. Tickets sold: 41/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor1-12. Tickets sold: 42/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor1-13. Tickets sold: 43/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor1-14. Tickets sold: 44/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor1-15. Tickets sold: 45/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor1-16. Tickets sold: 46/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor1-17. Tickets sold: 47/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor1-18. Tickets sold: 48/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor1-19. Tickets sold: 49/100.
+Dec 12, 2024 11:28:36 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor1-20. Tickets sold: 50/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor4-1. Tickets sold: 51/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor4-2. Tickets sold: 52/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor4-3. Tickets sold: 53/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor4-4. Tickets sold: 54/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor4-5. Tickets sold: 55/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor4-6. Tickets sold: 56/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor4-7. Tickets sold: 57/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor4-8. Tickets sold: 58/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor4-9. Tickets sold: 59/100.
+Dec 12, 2024 11:28:37 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor4-10. Tickets sold: 60/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor4-11. Tickets sold: 61/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor4-12. Tickets sold: 62/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor4-13. Tickets sold: 63/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor4-14. Tickets sold: 64/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor4-15. Tickets sold: 65/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor4-16. Tickets sold: 66/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor4-17. Tickets sold: 67/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor4-18. Tickets sold: 68/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor4-19. Tickets sold: 69/100.
+Dec 12, 2024 11:28:38 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor4-20. Tickets sold: 70/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor4-21. Tickets sold: 71/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor4-22. Tickets sold: 72/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor4-23. Tickets sold: 73/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor4-24. Tickets sold: 74/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor4-25. Tickets sold: 75/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor4-26. Tickets sold: 76/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor4-27. Tickets sold: 77/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor4-28. Tickets sold: 78/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor4-29. Tickets sold: 79/100.
+Dec 12, 2024 11:28:39 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor4-30. Tickets sold: 80/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor4-31. Tickets sold: 81/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor4-32. Tickets sold: 82/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor4-33. Tickets sold: 83/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor4-34. Tickets sold: 84/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor4-35. Tickets sold: 85/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor4-36. Tickets sold: 86/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor4-37. Tickets sold: 87/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor4-38. Tickets sold: 88/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor4-39. Tickets sold: 89/100.
+Dec 12, 2024 11:28:40 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor4-40. Tickets sold: 90/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] Purchased ticket: Ticket-Vendor4-41. Tickets sold: 91/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] Purchased ticket: Ticket-Vendor4-42. Tickets sold: 92/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] Purchased ticket: Ticket-Vendor4-43. Tickets sold: 93/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] Purchased ticket: Ticket-Vendor4-44. Tickets sold: 94/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] Purchased ticket: Ticket-Vendor4-45. Tickets sold: 95/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] Purchased ticket: Ticket-Vendor4-46. Tickets sold: 96/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] Purchased ticket: Ticket-Vendor4-47. Tickets sold: 97/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] Purchased ticket: Ticket-Vendor4-48. Tickets sold: 98/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] Purchased ticket: Ticket-Vendor4-49. Tickets sold: 99/100.
+Dec 12, 2024 11:28:41 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] Purchased ticket: Ticket-Vendor4-50. Tickets sold: 100/100.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-11] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-7] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-10] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-6] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-5] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-8] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-13] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-9] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-12] No tickets available. Stopping.
+Dec 12, 2024 11:28:42 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-14] No tickets available. Stopping.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-10] Purchased ticket: Ticket-Vendor1-1. Tickets sold: 2/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-11] Purchased ticket: Ticket-Vendor1-2. Tickets sold: 2/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-12] Purchased ticket: Ticket-Vendor1-3. Tickets sold: 3/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-13] Purchased ticket: Ticket-Vendor1-4. Tickets sold: 4/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-14] Purchased ticket: Ticket-Vendor1-5. Tickets sold: 5/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-15] Purchased ticket: Ticket-Vendor1-6. Tickets sold: 6/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-16] Purchased ticket: Ticket-Vendor1-7. Tickets sold: 7/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-17] Purchased ticket: Ticket-Vendor1-8. Tickets sold: 8/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-18] Purchased ticket: Ticket-Vendor1-9. Tickets sold: 9/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-19] Purchased ticket: Ticket-Vendor1-10. Tickets sold: 10/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer11 | Thread: Thread-20] Purchased ticket: Ticket-Vendor1-11. Tickets sold: 11/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer12 | Thread: Thread-21] Purchased ticket: Ticket-Vendor1-12. Tickets sold: 12/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer13 | Thread: Thread-22] Purchased ticket: Ticket-Vendor1-13. Tickets sold: 13/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer14 | Thread: Thread-23] Purchased ticket: Ticket-Vendor1-14. Tickets sold: 14/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer15 | Thread: Thread-24] Purchased ticket: Ticket-Vendor1-15. Tickets sold: 15/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer16 | Thread: Thread-25] Purchased ticket: Ticket-Vendor2-1. Tickets sold: 16/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer17 | Thread: Thread-26] Purchased ticket: Ticket-Vendor2-2. Tickets sold: 17/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer18 | Thread: Thread-27] Purchased ticket: Ticket-Vendor2-3. Tickets sold: 18/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer19 | Thread: Thread-28] Purchased ticket: Ticket-Vendor2-4. Tickets sold: 19/100.
+Dec 12, 2024 11:29:58 AM core.Customer run
+INFO: [Customer: Customer20 | Thread: Thread-29] Purchased ticket: Ticket-Vendor2-5. Tickets sold: 20/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-13] Purchased ticket: Ticket-Vendor2-6. Tickets sold: 21/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-17] Purchased ticket: Ticket-Vendor2-7. Tickets sold: 22/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-12] Purchased ticket: Ticket-Vendor2-8. Tickets sold: 23/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-16] Purchased ticket: Ticket-Vendor2-9. Tickets sold: 24/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-19] Purchased ticket: Ticket-Vendor2-10. Tickets sold: 25/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-18] Purchased ticket: Ticket-Vendor2-11. Tickets sold: 26/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-15] Purchased ticket: Ticket-Vendor2-12. Tickets sold: 27/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-14] Purchased ticket: Ticket-Vendor2-13. Tickets sold: 28/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-10] Purchased ticket: Ticket-Vendor2-14. Tickets sold: 29/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-11] Purchased ticket: Ticket-Vendor2-15. Tickets sold: 30/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer19 | Thread: Thread-28] Purchased ticket: Ticket-Vendor4-1. Tickets sold: 31/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer20 | Thread: Thread-29] Purchased ticket: Ticket-Vendor4-2. Tickets sold: 32/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer16 | Thread: Thread-25] Purchased ticket: Ticket-Vendor4-3. Tickets sold: 33/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer17 | Thread: Thread-26] Purchased ticket: Ticket-Vendor4-4. Tickets sold: 34/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer18 | Thread: Thread-27] Purchased ticket: Ticket-Vendor4-5. Tickets sold: 35/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer13 | Thread: Thread-22] Purchased ticket: Ticket-Vendor4-6. Tickets sold: 36/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer14 | Thread: Thread-23] Purchased ticket: Ticket-Vendor4-7. Tickets sold: 37/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer15 | Thread: Thread-24] Purchased ticket: Ticket-Vendor4-8. Tickets sold: 38/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer11 | Thread: Thread-20] Purchased ticket: Ticket-Vendor4-9. Tickets sold: 39/100.
+Dec 12, 2024 11:29:59 AM core.Customer run
+INFO: [Customer: Customer12 | Thread: Thread-21] Purchased ticket: Ticket-Vendor4-10. Tickets sold: 40/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-17] Purchased ticket: Ticket-Vendor4-11. Tickets sold: 41/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-16] Purchased ticket: Ticket-Vendor4-12. Tickets sold: 42/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-13] Purchased ticket: Ticket-Vendor4-13. Tickets sold: 43/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-12] Purchased ticket: Ticket-Vendor4-14. Tickets sold: 44/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer16 | Thread: Thread-25] Purchased ticket: Ticket-Vendor4-15. Tickets sold: 45/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer20 | Thread: Thread-29] Purchased ticket: Ticket-Vendor2-16. Tickets sold: 46/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer18 | Thread: Thread-27] Purchased ticket: Ticket-Vendor2-17. Tickets sold: 47/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer15 | Thread: Thread-24] Purchased ticket: Ticket-Vendor2-18. Tickets sold: 48/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer17 | Thread: Thread-26] Purchased ticket: Ticket-Vendor2-19. Tickets sold: 49/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer19 | Thread: Thread-28] Purchased ticket: Ticket-Vendor2-20. Tickets sold: 50/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer13 | Thread: Thread-22] Purchased ticket: Ticket-Vendor2-21. Tickets sold: 51/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer14 | Thread: Thread-23] Purchased ticket: Ticket-Vendor2-22. Tickets sold: 52/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-11] Purchased ticket: Ticket-Vendor2-23. Tickets sold: 53/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-15] Purchased ticket: Ticket-Vendor2-24. Tickets sold: 54/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-18] Purchased ticket: Ticket-Vendor2-25. Tickets sold: 55/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-10] Purchased ticket: Ticket-Vendor2-26. Tickets sold: 56/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-19] Purchased ticket: Ticket-Vendor2-27. Tickets sold: 57/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-14] Purchased ticket: Ticket-Vendor2-28. Tickets sold: 58/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer11 | Thread: Thread-20] Purchased ticket: Ticket-Vendor2-29. Tickets sold: 59/100.
+Dec 12, 2024 11:30:00 AM core.Customer run
+INFO: [Customer: Customer12 | Thread: Thread-21] Purchased ticket: Ticket-Vendor2-30. Tickets sold: 60/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-12] Purchased ticket: Ticket-Vendor1-16. Tickets sold: 61/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-16] Purchased ticket: Ticket-Vendor1-17. Tickets sold: 62/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-13] Purchased ticket: Ticket-Vendor1-18. Tickets sold: 63/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-17] Purchased ticket: Ticket-Vendor1-19. Tickets sold: 64/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-11] Purchased ticket: Ticket-Vendor1-20. Tickets sold: 65/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer14 | Thread: Thread-23] Purchased ticket: Ticket-Vendor1-21. Tickets sold: 66/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-15] Purchased ticket: Ticket-Vendor1-22. Tickets sold: 67/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer19 | Thread: Thread-28] Purchased ticket: Ticket-Vendor1-23. Tickets sold: 68/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer13 | Thread: Thread-22] Purchased ticket: Ticket-Vendor1-24. Tickets sold: 69/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer16 | Thread: Thread-25] Purchased ticket: Ticket-Vendor1-25. Tickets sold: 70/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer20 | Thread: Thread-29] Purchased ticket: Ticket-Vendor1-26. Tickets sold: 71/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer15 | Thread: Thread-24] Purchased ticket: Ticket-Vendor1-27. Tickets sold: 72/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer17 | Thread: Thread-26] Purchased ticket: Ticket-Vendor1-28. Tickets sold: 73/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer18 | Thread: Thread-27] Purchased ticket: Ticket-Vendor1-29. Tickets sold: 74/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-18] Purchased ticket: Ticket-Vendor1-30. Tickets sold: 75/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-10] Purchased ticket: Ticket-Vendor2-31. Tickets sold: 76/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer12 | Thread: Thread-21] Purchased ticket: Ticket-Vendor2-32. Tickets sold: 77/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-19] Purchased ticket: Ticket-Vendor2-33. Tickets sold: 78/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-14] Purchased ticket: Ticket-Vendor2-34. Tickets sold: 79/100.
+Dec 12, 2024 11:30:01 AM core.Customer run
+INFO: [Customer: Customer11 | Thread: Thread-20] Purchased ticket: Ticket-Vendor2-35. Tickets sold: 80/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-16] Purchased ticket: Ticket-Vendor2-36. Tickets sold: 81/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-17] Purchased ticket: Ticket-Vendor2-37. Tickets sold: 82/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-12] Purchased ticket: Ticket-Vendor2-38. Tickets sold: 83/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-13] Purchased ticket: Ticket-Vendor2-39. Tickets sold: 84/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer18 | Thread: Thread-27] Purchased ticket: Ticket-Vendor2-40. Tickets sold: 85/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer17 | Thread: Thread-26] Purchased ticket: Ticket-Vendor2-41. Tickets sold: 86/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer20 | Thread: Thread-29] Purchased ticket: Ticket-Vendor2-42. Tickets sold: 87/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer15 | Thread: Thread-24] Purchased ticket: Ticket-Vendor2-43. Tickets sold: 88/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer16 | Thread: Thread-25] Purchased ticket: Ticket-Vendor2-44. Tickets sold: 89/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer13 | Thread: Thread-22] Purchased ticket: Ticket-Vendor2-45. Tickets sold: 90/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer19 | Thread: Thread-28] Purchased ticket: Ticket-Vendor1-31. Tickets sold: 91/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-15] Purchased ticket: Ticket-Vendor1-32. Tickets sold: 92/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-11] Purchased ticket: Ticket-Vendor1-33. Tickets sold: 93/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer14 | Thread: Thread-23] Purchased ticket: Ticket-Vendor1-34. Tickets sold: 94/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-19] Purchased ticket: Ticket-Vendor1-35. Tickets sold: 95/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-14] Purchased ticket: Ticket-Vendor1-36. Tickets sold: 96/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer11 | Thread: Thread-20] Purchased ticket: Ticket-Vendor1-37. Tickets sold: 97/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-10] Purchased ticket: Ticket-Vendor1-38. Tickets sold: 98/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-18] Purchased ticket: Ticket-Vendor1-39. Tickets sold: 99/100.
+Dec 12, 2024 11:30:02 AM core.Customer run
+INFO: [Customer: Customer12 | Thread: Thread-21] Purchased ticket: Ticket-Vendor1-40. Tickets sold: 100/100.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer7 | Thread: Thread-16] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer4 | Thread: Thread-13] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer3 | Thread: Thread-12] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer8 | Thread: Thread-17] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer16 | Thread: Thread-25] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer20 | Thread: Thread-29] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer13 | Thread: Thread-22] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer18 | Thread: Thread-27] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer17 | Thread: Thread-26] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer15 | Thread: Thread-24] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer12 | Thread: Thread-21] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer10 | Thread: Thread-19] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer9 | Thread: Thread-18] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer19 | Thread: Thread-28] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer5 | Thread: Thread-14] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer1 | Thread: Thread-10] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer11 | Thread: Thread-20] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer6 | Thread: Thread-15] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer14 | Thread: Thread-23] No tickets available. Stopping.
+Dec 12, 2024 11:30:03 AM core.Customer run
+INFO: [Customer: Customer2 | Thread: Thread-11] No tickets available. Stopping.
