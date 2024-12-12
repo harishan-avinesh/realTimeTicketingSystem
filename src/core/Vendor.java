@@ -46,6 +46,11 @@ public class Vendor implements Runnable {
                     //System.out.println("Vendor " + vendorId + " cannot release more tickets. Limit reached.");
                     return; // Stop releasing tickets if the limit is reached
                 }
+                else {
+                    logger.info(String.format("[Vendor: %s | Thread: %s] Added tickets: %s. Total tickets added: %d.",
+                            vendorId, Thread.currentThread().getName(), batchTickets, ticketPool.getTotalTicketsAdded()));
+
+                }
 
                 Thread.sleep(releaseInterval); // Simulate delay between releases
 

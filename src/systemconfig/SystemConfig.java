@@ -28,9 +28,12 @@ public class SystemConfig {
             maxTicketCapacity = promptValidInput(scanner , "Re-enter Max Ticket Capacity: ");
         }
 
-        ticketReleaseRate = promptValidInput(scanner , "Enter Ticket Release Rate (ms): ");
-        customerRetrievalRate = promptValidInput(scanner , "Enter Customer Retrieval Rate (ms): ");
-        //checking practical values to be implemented later
+        // Prompt and validate ticketReleaseRate (max 5000 ms)
+        ticketReleaseRate = promptValidInput(scanner, "Enter Ticket Release Rate (ms): ", 5000);
+
+        // Prompt and validate customerRetrievalRate (max 5000 ms)
+        customerRetrievalRate = promptValidInput(scanner, "Enter Customer Retrieval Rate (ms): ", 5000);
+
 
         //warning given if customerRetrievalRate > ticketReleaseRate
         if(customerRetrievalRate > ticketReleaseRate){
@@ -61,6 +64,30 @@ public class SystemConfig {
         }
         return value;
     }
+
+    // Overloaded method to validate within a maximum value
+    private int promptValidInput(Scanner scanner, String prompt, int maxValue) {
+        int value = -1;
+        while (value <= 0 || value > maxValue) {
+            System.out.print(prompt);
+            if (scanner.hasNextInt()) {
+                value = scanner.nextInt();
+                if (value <= 0) {
+                    System.out.print("Value must be a positive integer. Try again: ");
+                } else if (value > maxValue) {
+                    System.out.print("Value must not exceed " + maxValue + " ms. Try again: ");
+                }
+            } else {
+                System.out.print("Invalid input. Please enter a positive integer. \n");
+                scanner.next(); // To consume the invalid input
+            }
+        }
+        return value;
+    }
+
+
+
+
     public void displaySystemConfig(){
         System.out.println(
                 "System Configuration:\n" +

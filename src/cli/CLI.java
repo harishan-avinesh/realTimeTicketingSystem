@@ -61,8 +61,9 @@ public class CLI {
         }
 
         // Ask the user for the number of vendors and customers
-        int numVendors = promptValidInput(scanner, "Enter the number of vendors to simulate: ");
-        int numCustomers = promptValidInput(scanner, "Enter the number of customers to simulate: ");
+        int numVendors = promptValidInput(scanner, "Enter the number of vendors to simulate (<= Total Tickets): ", config.getTotalTickets());
+        int numCustomers = promptValidInput(scanner, "Enter the number of customers to simulate (<= Total Tickets): ", config.getTotalTickets());
+
         int numTicketsPerBatch;
         while (true) {
             // Ask the user for the number of tickets per batch and ensure it's less than maxTicketCapacity
@@ -79,7 +80,7 @@ public class CLI {
 
         // Initialize threads dynamically based on user input
         for (int i = 1; i <= numVendors; i++) {
-            Vendor vendor = new Vendor("Vendor" + i, numTicketsPerBatch, config.getTicketReleaseRate(), ticketPool ,config);
+            Vendor vendor = new Vendor("Vendor" + i, numTicketsPerBatch, config.getTicketReleaseRate(), ticketPool, config);
             Thread vendorThread = new Thread(vendor);
             vendorThreads.add(vendorThread);
             vendorThread.start();
@@ -112,22 +113,24 @@ public class CLI {
         System.out.println("Simulation stopped. Exiting program...");
     }
 
-    // Helper method to validate and prompt for integer input
-    private static int promptValidInput(Scanner scanner, String prompt) {
+
+
+    private static int promptValidInput(Scanner scanner, String prompt, int maxValue) {
         while (true) {
             System.out.print(prompt);
             if (scanner.hasNextInt()) {
                 int value = scanner.nextInt();
                 scanner.nextLine(); // Consume newline
-                if (value > 0) {
+                if (value > 0 && value <= maxValue) {
                     return value;
                 }
-                System.out.println("Value must be a positive integer. Try again.");
+                System.out.println("Value must be a positive integer and less than or equal to " + maxValue + ". Try again.");
             } else {
                 System.out.println("Invalid input. Please enter a positive integer.");
                 scanner.nextLine(); // Consume invalid input
             }
         }
+
     }
 }
 
